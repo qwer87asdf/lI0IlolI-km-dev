@@ -1,0 +1,57 @@
+[
+  {
+    "name": "ad",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/ad.json",
+    "updated_at": 1640584560
+  },
+  {
+    "name": "about_us",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/about_us.json",
+    "updated_at": 1618127653
+  },
+  {
+    "name": "change_log",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/change_log.json",
+    "updated_at": 1618127648
+  },
+  {
+    "name": "ifa_time",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/ifa_time.json",
+    "updated_at": 1680236465009
+  },
+  {
+    "name": "donation",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/donation.json",
+    "updated_at": 1684639195
+  },
+  {
+    "name": "hijri_date",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/hijri_date.json",
+    "updated_at": 1680236465014
+  },
+  {
+    "name": "salat_reference",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/salat_reference.json",
+    "updated_at": 1615798056
+  },
+  {
+    "name": "prohibited_time_reference",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/prohibited_time_reference.json",
+    "updated_at": 1615798057
+  },
+  {
+    "name": "daily_notification",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/daily_notification.json",
+    "updated_at": 1615798057
+  },
+  {
+    "name": "event_animations",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/event_animations.json",
+    "updated_at": 1690681584
+  },
+  {
+    "name": "blog_category_image",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/blog-category",
+    "updated_at": 1694435898
+  }
+]

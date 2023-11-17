@@ -1,0 +1,26 @@
+[
+  {
+    "key": "welcome",
+    "name": "Welcome",
+    "from": 202307300815,
+    "to": 202307300915,
+    "count": 20,
+    "animation_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/event-animation-data/celebration.json"
+  },
+  {
+    "key": "eid_ul_adha",
+    "name": "Eid Ul Adha",
+    "from": 202305231200,
+    "to": 202305241300,
+    "count": 20,
+    "animation_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/event-animation-data/celebration.json"
+  },
+  {
+    "key": "eid_ul_fitar",
+    "name": "Eid Ul Fitar",
+    "from": 202305201246,
+    "to": 202305221300,
+    "count": 2,
+    "animation_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/event-animation-data/celebration.json"
+  }
+]

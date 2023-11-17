@@ -1,0 +1,98 @@
+[
+  {
+    "order": 1,
+    "name_en": "Muharram",
+    "name_bn": "মুহাররম",
+    "start": "2023-07-20",
+    "end": "2023-08-17",
+    "hijri_year": "1445"
+  },
+  {
+    "order": 2,
+    "name_en": "Safar",
+    "name_bn": "সফর",
+    "start": "2023-08-18",
+    "end": "2023-09-16",
+    "hijri_year": "1445"
+  },
+  {
+    "order": 3,
+    "name_en": "Rabi Ul Awwal",
+    "name_bn": "রবিউল আউয়াল",
+    "start": "2023-09-17",
+    "end": "2023-10-16",
+    "hijri_year": "1445"
+  },
+  {
+    "order": 4,
+    "name_en": "Rabi Us Sani",
+    "name_bn": "রবিউস সানী",
+    "start": "2023-10-17",
+    "end": "2023-11-15",
+    "hijri_year": "1445"
+  },
+  {
+    "order": 5,
+    "name_en": "Jumadal Awwal",
+    "name_bn": "জুমাদাল আউয়াল",
+    "start": "2023-11-16",
+    "end": "2023-12-14",
+    "hijri_year": "1445"
+  },
+  {
+    "order": 6,
+    "name_en": "Jumadas Sani",
+    "name_bn": "জুমাদাস সানী",
+    "start": "2023-12-15",
+    "end": "2024-01-13",
+    "hijri_year": "1445"
+  },
+  {
+    "order": 7,
+    "name_en": "Rajab",
+    "name_bn": "রজব",
+    "start": "2024-01-14",
+    "end": "2024-02-11",
+    "hijri_year": "1445"
+  },
+  {
+    "order": 8,
+    "name_en": "Shaban",
+    "name_bn": "শাবান",
+    "start": "2024-02-12",
+    "end": "2024-03-11",
+    "hijri_year": "1445"
+  },
+  {
+    "order": 9,
+    "name_en": "Ramadan",
+    "name_bn": "রমাদান",
+    "start": "2024-03-12",
+    "end": "2024-04-10",
+    "hijri_year": "1445"
+  },
+  {
+    "order": 10,
+    "name_en": "Shawwal",
+    "name_bn": "শাওয়াল",
+    "start": "2024-04-11",
+    "end": "2024-05-09",
+    "hijri_year": "1445"
+  },
+  {
+    "order": 11,
+    "name_en": "Jilqaq",
+    "name_bn": "জিলকদ",
+    "start": "2023-05-22",
+    "end": "2023-06-19",
+    "hijri_year": "1444"
+  },
+  {
+    "order": 12,
+    "name_en": "Jilhajj",
+    "name_bn": "জিলহজ্জ",
+    "start": "2023-06-20",
+    "end": "2023-07-19",
+    "hijri_year": "1444"
+  }
+]
