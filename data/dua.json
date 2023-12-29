@@ -2,7 +2,7 @@
   {
     "category_id": 1,
     "category_name": "সালাত-নামাজ",
-    "category_image": "https://i.imgur.com/l1JXHvh.jpg",
+    "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/salat.png",
     "content_list": [
       {
         "title": "আজানের পর পড়ার দুআ",
@@ -99,7 +99,7 @@
   {
     "category_id": 2,
     "category_name": "দৈনন্দিন জীবন",
-    "category_image": "https://i.imgur.com/l1JXHvh.jpg",
+    "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/daily-life.png",
     "content_list": [
       {
         "title": "ঘুমাতে যাওয়ার আগের দুআ",
@@ -231,7 +231,7 @@
   {
     "category_id": 3,
     "category_name": "সাওম",
-    "category_image": "https://i.imgur.com/l1JXHvh.jpg",
+    "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/saom.png",
     "content_list": [
       {
         "title": "ইফতারের দুআ",
@@ -253,7 +253,7 @@
   {
     "category_id": 4,
     "category_name": "সকাল-সন্ধ্যার যিক‍্‍র",
-    "category_image": "https://i.imgur.com/l1JXHvh.jpg",
+    "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/morning_evening_zikr.png",
     "content_list": [
       {
         "title": "আয়াতুল কুরসী - জিন ও শয়তান থেকে নিরাপত্তা",
@@ -365,7 +365,7 @@
   {
     "category_id": 5,
     "category_name": "কুরআন থেকে",
-    "category_image": "https://i.imgur.com/l1JXHvh.jpg",
+    "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/quran_dua.png",
     "content_list": [
       {
         "title": "আমল কবুলের জন্য দুআ",
@@ -572,7 +572,7 @@
   {
     "category_id": 6,
     "category_name": "বিবিধ",
-    "category_image": "https://i.imgur.com/l1JXHvh.jpg",
+    "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/more.png",
     "content_list": [
       {
         "title": "ইসতিখারার নামাজের দুআ",
