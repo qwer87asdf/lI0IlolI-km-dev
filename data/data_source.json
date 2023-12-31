@@ -63,5 +63,15 @@
     "name": "qari",
     "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/qari.json",
     "updated_at": 1694435898
+  },
+  {
+    "name": "selected_quran",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/selected_quran.json",
+    "updated_at": 1694435898
+  },
+  {
+    "name": "selected_hadith",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/selected_hadith.json",
+    "updated_at": 1694435898
   }
 ]
