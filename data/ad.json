@@ -9,10 +9,11 @@
     "message_bn": "যে আমলগুলোর মাধ্যমে অনেক সওয়াব ও ফজিলত হাসিল হবে ইনশাআল্লাহ",
     "button_text_en": "Read",
     "button_text_bn": "Read",
-    "action_url": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_en": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_bn": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
     "enable": true,
-    "start_time": "1630543662",
-    "end_time": "1630643662"
+    "start_time": 1707279058,
+    "end_time": 1738901458
   },
   {
     "id": 2,
@@ -24,9 +25,10 @@
     "message_bn": "যে আমলগুলোর মাধ্যমে অনেক সওয়াব ও ফজিলত হাসিল হবে ইনশাআল্লাহ",
     "button_text_en": "Read",
     "button_text_bn": "Read",
-    "action_url": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_en": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_bn": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
     "enable": false,
-    "start_time": "1630543662",
-    "end_time": "1630643662"
+    "start_time": 1707279058,
+    "end_time": 1738901458
   }
 ]
