@@ -1,34 +1,81 @@
 [
   {
     "id": 1,
-    "ad_type": "text",
-    "image_url": null,
-    "title_en": "Get prepared before Ramadan!",
-    "title_bn": "রমাদান আসার আগেই প্রস্তুতি নিন!",
-    "message_en": "Know masala, engage yourself in Ibadah, inspire also your family",
-    "message_bn": "মাসআলা জানুন, নিজেকে ইবাদতের দিকে ধাবিত করুন, পরিবারের সবাইকে উদ্বুদ্ধ করুন",
-    "button_text_en": "Read",
-    "button_text_bn": "পড়ুন",
+    "slug": "ramadan-preparation",
+    "enable": true,
+    "text_ad": {
+      "title_en": "Get prepared before Ramadan!",
+      "title_bn": "রমাদান আসার আগেই প্রস্তুতি নিন!",
+      "message_en": "Know masala, engage yourself in Ibadah, inspire also your family",
+      "message_bn": "মাসআলা জানুন, নিজেকে ইবাদতের দিকে ধাবিত করুন, পরিবারের সবাইকে উদ্বুদ্ধ করুন",
+      "button_text_en": "Read",
+      "button_text_bn": "পড়ুন"
+    },
     "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
     "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
-    "enable": true,
     "start_time": 1707279058,
     "end_time": 1709230368
   },
   {
     "id": 2,
-    "ad_type": "text",
-    "image_url": "",
-    "title_en": "জুমআর দিনের কয়েকটি সুন্নাহ সম্মত আমল",
-    "title_bn": "জুমআর দিনের কয়েকটি সুন্নাহ সম্মত আমল",
-    "message_en": "যে আমলগুলোর মাধ্যমে অনেক সওয়াব ও ফজিলত হাসিল হবে ইনশাআল্লাহ",
-    "message_bn": "যে আমলগুলোর মাধ্যমে অনেক সওয়াব ও ফজিলত হাসিল হবে ইনশাআল্লাহ",
-    "button_text_en": "Read",
-    "button_text_bn": "Read",
-    "action_url_en": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-    "action_url_bn": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+    "slug": "ramada-preparation",
     "enable": true,
+    "text_ad": {
+      "title_en": "Get prepared before Ramadan!",
+      "title_bn": "রমাদান আসার আগেই প্রস্তুতি নিন!",
+      "message_en": "Know masala, engage yourself in Ibadah, inspire also your family",
+      "message_bn": "মাসআলা জানুন, নিজেকে ইবাদতের দিকে ধাবিত করুন, পরিবারের সবাইকে উদ্বুদ্ধ করুন",
+      "button_text_en": "Read",
+      "button_text_bn": "পড়ুন"
+    },
+    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
     "start_time": 1707279058,
-    "end_time": 1738901458
+    "end_time": 1709230368
+  },
+  {
+    "id": 3,
+    "slug": "ramada-preparation",
+    "enable": true,
+    "image_ad": {
+      "image_en": "https://github.com/qwer87asdf/lI0IlolI-km/blob/master/notification/image/abstract-kitab.jpg",
+      "image_bn": "https://github.com/qwer87asdf/lI0IlolI-km/blob/master/notification/image/abstract-kitab.jpg"
+    },
+    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "start_time": 1707279058,
+    "end_time": 1709230368
+  },
+  {
+    "id": 14,
+    "slug": "ramada-preparation",
+    "enable": true,
+    "text_ad": {
+      "title_en": "Get prepared before Ramadan!",
+      "title_bn": "রমাদান আসার আগেই প্রস্তুতি নিন!",
+      "message_en": "Know masala, engage yourself in Ibadah, inspire also your family",
+      "message_bn": "মাসআলা জানুন, নিজেকে ইবাদতের দিকে ধাবিত করুন, পরিবারের সবাইকে উদ্বুদ্ধ করুন",
+      "button_text_en": "Read",
+      "button_text_bn": "পড়ুন"
+    },
+    "image_ad": null,
+    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "start_time": 1707279058,
+    "end_time": 1709230368
+  },
+  {
+    "id": 15,
+    "slug": "ramada-preparation",
+    "enable": true,
+    "text_ad": null,
+    "image_ad": {
+      "image_en": "https://github.com/qwer87asdf/lI0IlolI-km/blob/master/notification/image/abstract-kitab.jpg",
+      "image_bn": "https://github.com/qwer87asdf/lI0IlolI-km/blob/master/notification/image/abstract-kitab.jpg"
+    },
+    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "start_time": 1707279058,
+    "end_time": 1709230368
   }
 ]
