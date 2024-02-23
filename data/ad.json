@@ -18,20 +18,20 @@
   },
   {
     "id": 2,
-    "slug": "ramada-preparation",
+    "slug": "ramadan-quiz",
     "enable": true,
     "text_ad": {
-      "title_en": "Get prepared before Ramadan!",
-      "title_bn": "রমাদান আসার আগেই প্রস্তুতি নিন!",
-      "message_en": "Know masala, engage yourself in Ibadah, inspire also your family",
-      "message_bn": "মাসআলা জানুন, নিজেকে ইবাদতের দিকে ধাবিত করুন, পরিবারের সবাইকে উদ্বুদ্ধ করুন",
-      "button_text_en": "Read",
-      "button_text_bn": "পড়ুন"
+      "title_en": "Muslims Day Ramadan Quiz Competition 2024",
+      "title_bn": "মুসলিমস ডে রমযান কুইজ প্রতিযোগিতা ২০২৪",
+      "message_en": "Know the Mas'ala of Ramadan, Fasting and Zakat. Win exciting prizes!",
+      "message_bn": "রমযান, রোজা ও যাকাতের মাসআলা জানুন। জিতে নিন আকর্ষণীয় পুরস্কার!",
+      "button_text_en": "Details",
+      "button_text_bn": "বিস্তারিত"
     },
-    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
-    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_en": "https://muslimsday.com/রমযান-কুইজ-২০২৪/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_bn": "https://muslimsday.com/রমযান-কুইজ-২০২৪/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
     "start_time": 1707279058,
-    "end_time": 1709230368
+    "end_time": 1709907276
   },
   {
     "id": 3,
@@ -44,7 +44,7 @@
     "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
     "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
     "start_time": 1707279058,
-    "end_time": 1709230368
+    "end_time": 1708697676
   },
   {
     "id": 14,
@@ -62,20 +62,24 @@
     "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
     "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
     "start_time": 1707279058,
-    "end_time": 1709230368
+    "end_time": 1708697676
   },
   {
-    "id": 15,
-    "slug": "ramada-preparation",
+    "id": 101,
+    "slug": "donation",
     "enable": true,
-    "text_ad": null,
-    "image_ad": {
-      "image_en": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/image/abstract-kitab.jpg",
-      "image_bn": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/image/abstract-kitab.jpg"
+    "text_ad": {
+      "title_en": "To keep the app running, we need money",
+      "title_bn": "অ্যাপের কার্যক্রম চালিয়ে নিতে নিয়মিত অর্থের প্রয়োজন",
+      "message_en": "To continue this App development, You can donate money",
+      "message_bn": "অ্যাপের ডেভেলপমেন্ট চালিয়ে নিতে আপনার সামর্থ্য অনুযায়ী আর্থিক অনুদান দিতে পারেন",
+      "button_text_en": "Donate Now",
+      "button_text_bn": "অনুদান দিন"
     },
-    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
-    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "image_ad": null,
+    "action_url_en": "https://muslimsday.com/donation/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_bn": "https://muslimsday.com/donation/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
     "start_time": 1707279058,
-    "end_time": 1709230368
+    "end_time": 1741443276
   }
 ]
