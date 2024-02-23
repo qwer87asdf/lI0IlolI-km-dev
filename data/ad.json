@@ -69,10 +69,10 @@
     "slug": "donation",
     "enable": true,
     "text_ad": {
-      "title_en": "To keep the app running, we need money",
-      "title_bn": "অ্যাপের কার্যক্রম চালিয়ে নিতে নিয়মিত অর্থের প্রয়োজন",
-      "message_en": "To continue this App development, You can donate money",
-      "message_bn": "অ্যাপের ডেভেলপমেন্ট চালিয়ে নিতে আপনার সামর্থ্য অনুযায়ী আর্থিক অনুদান দিতে পারেন",
+      "title_en": "Donate at Muslims Day App",
+      "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
+      "message_en": "Zakat-Fitra cannot be given. Donate as gift",
+      "message_bn": "যাকাত-ফিতরা দেয়া যাবে না। সাধারন অনুদান বা গিফট দিতে পারেন",
       "button_text_en": "Donate Now",
       "button_text_bn": "অনুদান দিন"
     },
