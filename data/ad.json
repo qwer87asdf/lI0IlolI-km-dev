@@ -36,7 +36,7 @@
   {
     "id": 3,
     "slug": "ramada-preparation",
-    "enable": true,
+    "enable": false,
     "image_ad": {
       "image_en": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/image/abstract-kitab.jpg",
       "image_bn": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/image/abstract-kitab.jpg"
@@ -49,7 +49,7 @@
   {
     "id": 14,
     "slug": "ramada-preparation",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "Get prepared before Ramadan!",
       "title_bn": "রমাদান আসার আগেই প্রস্তুতি নিন!",
