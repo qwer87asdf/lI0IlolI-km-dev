@@ -2,7 +2,7 @@
   {
     "id": 1,
     "slug": "ramadan-preparation",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "Get prepared before Ramadan!",
       "title_bn": "রমাদান আসার আগেই প্রস্তুতি নিন!",
@@ -19,7 +19,7 @@
   {
     "id": 2,
     "slug": "ramadan-quiz",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "Muslims Day Ramadan Quiz Competition 2024",
       "title_bn": "মুসলিমস ডে রমযান কুইজ প্রতিযোগিতা ২০২৪",
@@ -34,40 +34,27 @@
     "end_time": 1709907276
   },
   {
-    "id": 3,
-    "slug": "ramada-preparation",
-    "enable": false,
-    "image_ad": {
-      "image_en": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/image/abstract-kitab.jpg",
-      "image_bn": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/image/abstract-kitab.jpg"
-    },
-    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
-    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
-    "start_time": 1707279058,
-    "end_time": 1708697676
-  },
-  {
     "id": 14,
     "slug": "ramada-preparation",
-    "enable": false,
+    "enable": true,
     "text_ad": {
-      "title_en": "Get prepared before Ramadan!",
-      "title_bn": "রমাদান আসার আগেই প্রস্তুতি নিন!",
-      "message_en": "Know masala, engage yourself in Ibadah, inspire also your family",
-      "message_bn": "মাসআলা জানুন, নিজেকে ইবাদতের দিকে ধাবিত করুন, পরিবারের সবাইকে উদ্বুদ্ধ করুন",
+      "title_en": "Lailatun Nisf Min Shaban/Shobe Barat",
+      "title_bn": "লাইলাতুন নিসফ মিন শাবান বা শবে বরাত",
+      "message_en": "Know about Fazilat, Amal and Bidyat of this night",
+      "message_bn": "জেনে নিন এরাতের ফজিলত; করণীয় আমল ও বর্জনীয় বিদআত-কুসংস্কার সম্পর্কে",
       "button_text_en": "Read",
       "button_text_bn": "পড়ুন"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
-    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_en": "https://muslimsday.com/শবে-বরাত-ফজিলত-আমল-বিদআত/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_bn": "https://muslimsday.com/শবে-বরাত-ফজিলত-আমল-বিদআত/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
   {
     "id": 101,
     "slug": "donation",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "Donate at Muslims Day App",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
