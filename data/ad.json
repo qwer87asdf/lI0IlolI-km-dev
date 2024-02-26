@@ -19,7 +19,7 @@
   {
     "id": 2,
     "slug": "ramadan-quiz",
-    "enable": false,
+    "enable": true,
     "text_ad": {
       "title_en": "Muslims Day Ramadan Quiz Competition 2024",
       "title_bn": "মুসলিমস ডে রমযান কুইজ প্রতিযোগিতা ২০২৪",
@@ -36,7 +36,7 @@
   {
     "id": 14,
     "slug": "ramada-preparation",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "Lailatun Nisf Min Shaban/Shobe Barat",
       "title_bn": "লাইলাতুন নিসফ মিন শাবান বা শবে বরাত",
@@ -54,7 +54,7 @@
   {
     "id": 101,
     "slug": "donation",
-    "enable": false,
+    "enable": true,
     "text_ad": {
       "title_en": "Donate at Muslims Day App",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
