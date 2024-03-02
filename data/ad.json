@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "slug": "ramadan-preparation",
-    "enable": false,
+    "slug": "shorobor-ramadan-food-project",
+    "enable": true,
     "text_ad": {
-      "title_en": "Get prepared before Ramadan!",
-      "title_bn": "রমাদান আসার আগেই প্রস্তুতি নিন!",
-      "message_en": "Know masala, engage yourself in Ibadah, inspire also your family",
-      "message_bn": "মাসআলা জানুন, নিজেকে ইবাদতের দিকে ধাবিত করুন, পরিবারের সবাইকে উদ্বুদ্ধ করুন",
-      "button_text_en": "Read",
-      "button_text_bn": "পড়ুন"
+      "title_en": "রামাদানে দুঃস্থদের সাহরি ও ইফতার করাতে চান?",
+      "title_bn": "রামাদানে দুঃস্থদের সাহরি ও ইফতার করাতে চান?",
+      "message_en": "রোজাদারদের জন্য ৳ ৮০০/- ফুড প্যাকেজ ও ৳ ৩৯০/- ইফতার কিনতে পারেন",
+      "message_bn": "রোজাদারদের জন্য ৳ ৮০০/- ফুড প্যাকেজ ও ৳ ৩৯০/- ইফতার কিনতে পারেন",
+      "button_text_en": "প্যাকেজ কিনুন",
+      "button_text_bn": "প্যাকেজ কিনুন"
     },
-    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
-    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_en": "https://shorobor.biz/ramadan-food-project/?utm_source=muslims_day&utm_medium=banner&utm_campaign=ramadan_project",
+    "action_url_bn": "https://shorobor.biz/ramadan-food-project/?utm_source=muslims_day&utm_medium=banner&utm_campaign=ramadan_project",
     "start_time": 1707279058,
     "end_time": 1709230368
   },
