@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": 1709469832,
+    "version_name": "2.0.3",
+    "change_en": "Dua, daily Ayat-Hadith notification and Islamic reminder notification added.",
+    "change_bn": "দুআ, দৈনিক আয়াত-হাদীস নোটিফিকেশন ও ইসলামিক রিমাইন্ডার নোটিফিকেশন যোগ করা হয়েছে।"
+  },
+  {
     "timestamp": 1647395197,
     "version_name": "0.0.1",
     "change_en": "This is very first release of iOS App with very basic functionalities. 1st MVP (Minimal viable product) release on App Store.",
