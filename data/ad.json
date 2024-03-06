@@ -35,19 +35,19 @@
   },
   {
     "id": 14,
-    "slug": "ramada-preparation",
-    "enable": false,
+    "slug": "ramadan-preparation",
+    "enable": true,
     "text_ad": {
-      "title_en": "Lailatun Nisf Min Shaban/Shobe Barat",
-      "title_bn": "লাইলাতুন নিসফ মিন শাবান বা শবে বরাত",
-      "message_en": "Know about Fazilat, Amal and Bidyat of this night",
-      "message_bn": "জেনে নিন এরাতের ফজিলত; করণীয় আমল ও বর্জনীয় বিদআত-কুসংস্কার সম্পর্কে",
-      "button_text_en": "Read",
+      "title_en": "রমযান আসার আগেই প্রস্তুতি নিন",
+      "title_bn": "রমযান আসার আগেই প্রস্তুতি নিন",
+      "message_en": "রমযান মাসকে সর্বোচ্চ কাজে লাগাতে আগে থেকেই প্রস্তুতি নিই",
+      "message_bn": "রমযান মাসকে সর্বোচ্চ কাজে লাগাতে আগে থেকেই প্রস্তুতি নিই",
+      "button_text_en": "পড়ুন",
       "button_text_bn": "পড়ুন"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/শবে-বরাত-ফজিলত-আমল-বিদআত/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
-    "action_url_bn": "https://muslimsday.com/শবে-বরাত-ফজিলত-আমল-বিদআত/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
