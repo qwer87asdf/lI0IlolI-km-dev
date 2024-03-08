@@ -2,7 +2,7 @@
   {
     "id": 1,
     "slug": "shorobor-ramadan-food-project",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "রামাদানে দুঃস্থদের সাহরি ও ইফতার করাতে চান?",
       "title_bn": "রামাদানে দুঃস্থদের সাহরি ও ইফতার করাতে চান?",
@@ -28,15 +28,15 @@
       "button_text_en": "Details",
       "button_text_bn": "বিস্তারিত"
     },
-    "action_url_en": "https://muslimsday.com/রমযান-কুইজ-২০২৪/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
-    "action_url_bn": "https://muslimsday.com/রমযান-কুইজ-২০২৪/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_en": "https://forms.gle/i22Kn7qNzDwMyDbLA",
+    "action_url_bn": "https://forms.gle/i22Kn7qNzDwMyDbLA",
     "start_time": 1707279058,
     "end_time": 1709907276
   },
   {
     "id": 14,
     "slug": "ramadan-preparation",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "রমযান আসার আগেই প্রস্তুতি নিন",
       "title_bn": "রমযান আসার আগেই প্রস্তুতি নিন",
@@ -54,7 +54,7 @@
   {
     "id": 101,
     "slug": "donation",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "Donate at Muslims Day App",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
