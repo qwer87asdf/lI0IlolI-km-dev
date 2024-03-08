@@ -19,7 +19,7 @@
   {
     "id": 2,
     "slug": "ramadan-quiz",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "Muslims Day Ramadan Quiz 2024",
       "title_bn": "মুসলিমস ডে রমযান কুইজ প্রতিযোগিতা ২০২৪",
@@ -36,7 +36,7 @@
   {
     "id": 14,
     "slug": "ramadan-preparation",
-    "enable": false,
+    "enable": true,
     "text_ad": {
       "title_en": "রমযান আসার আগেই প্রস্তুতি নিন",
       "title_bn": "রমযান আসার আগেই প্রস্তুতি নিন",
@@ -54,7 +54,7 @@
   {
     "id": 101,
     "slug": "donation",
-    "enable": false,
+    "enable": true,
     "text_ad": {
       "title_en": "Donate at Muslims Day App",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
