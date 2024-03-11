@@ -1,22 +1,5 @@
 [
   {
-    "id": 1,
-    "slug": "shorobor-ramadan-food-project",
-    "enable": false,
-    "text_ad": {
-      "title_en": "রামাদানে দুঃস্থদের সাহরি ও ইফতার করাতে চান?",
-      "title_bn": "রামাদানে দুঃস্থদের সাহরি ও ইফতার করাতে চান?",
-      "message_en": "রোজাদারদের জন্য ৳ ৮০০/- ফুড প্যাকেজ ও ৳ ৩৯০/- ইফতার কিনতে পারেন",
-      "message_bn": "রোজাদারদের জন্য ৳ ৮০০/- ফুড প্যাকেজ ও ৳ ৩৯০/- ইফতার কিনতে পারেন",
-      "button_text_en": "প্যাকেজ কিনুন",
-      "button_text_bn": "প্যাকেজ কিনুন"
-    },
-    "action_url_en": "https://shorobor.biz/ramadan-food-project/?utm_source=muslims_day&utm_medium=banner&utm_campaign=ramadan_project",
-    "action_url_bn": "https://shorobor.biz/ramadan-food-project/?utm_source=muslims_day&utm_medium=banner&utm_campaign=ramadan_project",
-    "start_time": 1707279058,
-    "end_time": 1709230368
-  },
-  {
     "id": 2,
     "slug": "ramadan-quiz",
     "enable": false,
@@ -38,16 +21,16 @@
     "slug": "ramadan-preparation",
     "enable": true,
     "text_ad": {
-      "title_en": "রমযান আসার আগেই প্রস্তুতি নিন",
-      "title_bn": "রমযান আসার আগেই প্রস্তুতি নিন",
-      "message_en": "রমযান মাসকে সর্বোচ্চ কাজে লাগাতে আগে থেকেই প্রস্তুতি নিই",
-      "message_bn": "রমযান মাসকে সর্বোচ্চ কাজে লাগাতে আগে থেকেই প্রস্তুতি নিই",
-      "button_text_en": "পড়ুন",
-      "button_text_bn": "পড়ুন"
+      "title_en": "রমযান ও রোযা সম্পর্কিত মাসআলা জানুন",
+      "title_bn": "রমযান ও রোযা সম্পর্কিত মাসআলা জানুন",
+      "message_en": "মুসলমস ডে ব্লগের রোযা বিষয়ক সকল পোস্ট একত্রে পেতে ভিজিট করুন",
+      "message_bn": "মুসলমস ডে ব্লগের রোযা বিষয়ক সকল পোস্ট একত্রে পেতে ভিজিট করুন",
+      "button_text_en": "বিস্তারিত",
+      "button_text_bn": "বিস্তারিত"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
-    "action_url_bn": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
+    "action_url_en": "https://muslimsday.com/tag/সাওম-রোজা/",
+    "action_url_bn": "https://muslimsday.com/tag/সাওম-রোজা/",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
