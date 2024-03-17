@@ -1,18 +1,18 @@
 [
   {
     "id": 2,
-    "slug": "sahri-end-time",
+    "slug": "ramadan-food-hishab",
     "enable": true,
     "text_ad": {
-      "title_en": "সাহরির শেষ সময় সুবহে সাদিক, আযান নয় ",
-      "title_bn": "সাহরির শেষ সময় সুবহে সাদিক, আযান নয়",
-      "message_en": "সুবহে সাদিকের পর, ফজরের আযানের সময় পানাহার করলে রোযা নষ্ট হয়ে যাবে",
-      "message_bn": "সুবহে সাদিকের পর, ফজরের আযানের সময় পানাহার করলে রোযা নষ্ট হয়ে যাবে",
+      "title_en": "রমজান মাসে কি খাবারের কোনো হিসাব নাই?",
+      "title_bn": "রমজান মাসে কি খাবারের কোনো হিসাব নাই?",
+      "message_en": "জেনে নিন সমাজে বহুল প্রচলিত এই ভুল ধারনা সম্পর্কে",
+      "message_bn": "জেনে নিন সমাজে বহুল প্রচলিত এই ভুল ধারনা সম্পর্কে",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
-    "action_url_en": "https://muslimsday.com/সাহরির-শেষ-সময়/",
-    "action_url_bn": "https://muslimsday.com/সাহরির-শেষ-সময়/",
+    "action_url_en": "https://muslimsday.com/রমজানের-খাবারের-হিসাব/",
+    "action_url_bn": "https://muslimsday.com/রমজানের-খাবারের-হিসাব/",
     "start_time": 1707279058,
     "end_time": 1709907276
   },
@@ -36,19 +36,19 @@
   },
   {
     "id": 10,
-    "slug": "ramadan-wrong-concept",
+    "slug": "why-caution-time-in-iftar",
     "enable": true,
     "text_ad": {
-      "title_en": "রোযা ও রমযান সম্পর্কে কিছু ভুল ধারনা",
-      "title_bn": "রোযা ও রমযান সম্পর্কে কিছু ভুল ধারনা",
-      "message_en": "আসুন পূর্বের ভুলগুলো শুধরে নিই। এই তো মু'মিনের বৈশিষ্ট্য!",
-      "message_bn": "আসুন পূর্বের ভুলগুলো শুধরে নিই। এই তো মু'মিনের বৈশিষ্ট্য!",
+      "title_en": "ইফতারে সতর্কতামূলক সময় যোগ কেন করা হয়?",
+      "title_bn": "ইফতারে সতর্কতামূলক সময় যোগ কেন করা হয়?",
+      "message_en": "আবহাওয়া অফিস approximate rounded সূর্যাস্তের সময় দেখায়",
+      "message_bn": "আবহাওয়া অফিস approximate rounded সূর্যাস্তের সময় দেখায়",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/রোজা-সংক্রান্ত-ভুল-ধারনা",
-    "action_url_bn": "https://muslimsday.com/রোজা-সংক্রান্ত-ভুল-ধারনা",
+    "action_url_en": "https://muslimsday.com/ইফতারে-সতর্কতামূলক-সময়",
+    "action_url_bn": "https://muslimsday.com/ইফতারে-সতর্কতামূলক-সময়",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
@@ -57,16 +57,16 @@
     "slug": "saom-not-break",
     "enable": true,
     "text_ad": {
-      "title_en": "রোযা ভঙ্গ হয় না এমন কয়েকটি কাজ",
-      "title_bn": "রোযা ভঙ্গ হয় না এমন কয়েকটি কাজ",
-      "message_en": "এমন কিছু কাজ যা করলে রোজা ভাঙে না, কিন্তু অনেকে মনে করে রোযা ভেঙে গেছে",
-      "message_bn": "এমন কিছু কাজ যা করলে রোজা ভাঙে না, কিন্তু অনেকে মনে করে রোযা ভেঙে গেছে",
+      "title_en": "অভিশপ্ত ট্রান্সজেন্ডার মতবাদ সম্পর্কে জানুন",
+      "title_bn": "অভিশপ্ত ট্রান্সজেন্ডার মতবাদ সম্পর্কে জানুন",
+      "message_en": "পরিবার ও সমাজ ধ্বংসের নীলনকশার বাস্তবায়ন হচ্ছে এখন বাংলাদেশেও!",
+      "message_bn": "পরিবার ও সমাজ ধ্বংসের নীলনকশার বাস্তবায়ন হচ্ছে এখন বাংলাদেশেও!",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/যেসব-কারণে-রোজা-ভাঙ্গে-না",
-    "action_url_bn": "https://muslimsday.com/যেসব-কারণে-রোজা-ভাঙ্গে-না",
+    "action_url_en": "https://muslimsday.com/ট্রান্সজেন্ডার-মতবাদ/",
+    "action_url_bn": "https://muslimsday.com/ট্রান্সজেন্ডার-মতবাদ/",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
