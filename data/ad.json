@@ -1,18 +1,18 @@
 [
   {
     "id": 2,
-    "slug": "ramadan-food-hishab",
+    "slug": "itikaf-fajilat-masala",
     "enable": true,
     "text_ad": {
-      "title_en": "রমজান মাসে কি খাবারের কোনো হিসাব নাই?",
-      "title_bn": "রমজান মাসে কি খাবারের কোনো হিসাব নাই?",
-      "message_en": "জেনে নিন সমাজে বহুল প্রচলিত এই ভুল ধারনা সম্পর্কে",
-      "message_bn": "জেনে নিন সমাজে বহুল প্রচলিত এই ভুল ধারনা সম্পর্কে",
+      "title_en": "ইতিকাফ: গুরুত্ব ফজিলত ও বিধান",
+      "title_bn": "ইতিকাফ: গুরুত্ব ফজিলত ও বিধান",
+      "message_en": "ইতিকাফ কেবল বয়ঃবৃদ্ধদের ইবাদত নয়। জেনে নিন এর ফজিলত ও মাসআলা",
+      "message_bn": "ইতিকাফ কেবল বয়ঃবৃদ্ধদের ইবাদত নয়। জেনে নিন এর ফজিলত ও মাসআলা",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
-    "action_url_en": "https://muslimsday.com/রমজানের-খাবারের-হিসাব/",
-    "action_url_bn": "https://muslimsday.com/রমজানের-খাবারের-হিসাব/",
+    "action_url_en": "https://muslimsday.com/ইতিকাফ-ফজিলত-মাসআলা",
+    "action_url_bn": "https://muslimsday.com/ইতিকাফ-ফজিলত-মাসআলা",
     "start_time": 1707279058,
     "end_time": 1709907276
   },
@@ -36,13 +36,13 @@
   },
   {
     "id": 10,
-    "slug": "why-caution-time-in-iftar",
+    "slug": "fitra-2024",
     "enable": true,
     "text_ad": {
-      "title_en": "ইফতারে সতর্কতামূলক সময় যোগ কেন করা হয়?",
-      "title_bn": "ইফতারে সতর্কতামূলক সময় যোগ কেন করা হয়?",
-      "message_en": "আবহাওয়া অফিস approximate rounded সূর্যাস্তের সময় দেখায়",
-      "message_bn": "আবহাওয়া অফিস approximate rounded সূর্যাস্তের সময় দেখায়",
+      "title_en": "২০২৪ সালের ফিতরার পরিমাণ কত টাকা?",
+      "title_bn": "২০২৪ সালের ফিতরার পরিমাণ কত টাকা?",
+      "message_en": "ফিতরা মানেই ১১৫ টাকা নয়। সামর্থ্য অনুযায়ী নিজেই ফিতরার হিসাব করুন",
+      "message_bn": "ফিতরা মানেই ১১৫ টাকা নয়। সামর্থ্য অনুযায়ী নিজেই ফিতরার হিসাব করুন",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
@@ -55,7 +55,7 @@
   {
     "id": 9,
     "slug": "saom-not-break",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "অভিশপ্ত ট্রান্সজেন্ডার মতবাদ সম্পর্কে জানুন",
       "title_bn": "অভিশপ্ত ট্রান্সজেন্ডার মতবাদ সম্পর্কে জানুন",
