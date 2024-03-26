@@ -1,0 +1,76 @@
+:root {
+    /* Light theme colors */
+    --default-text-color-light: #1F3541;
+    --sanad-text-color-light: #A0ABB4;
+    --reference-text-color-light: #A0ABB4;
+    
+    /* Dark theme colors */
+    --default-text-color-dark: #F8F9FA;
+    --sanad-text-color-dark: #A0ABB4;
+    --reference-text-color-dark: #A0ABB4;
+    
+    /* Default values */
+    --default-text-color: var(--default-text-color-light);
+    --sanad-text-color: var(--sanad-text-color-light);
+    --reference-text-color: var(--reference-text-color-light);
+}
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --default-text-color: var(--default-text-color-dark);
+        --sanad-text-color: var(--sanad-text-color-dark);
+        --reference-text-color: var(--reference-text-color-dark);
+    }
+}
+
+@font-face {
+    font-family: quran-font;
+    src: url(al_qalam_quran_web.ttf);
+}
+
+@font-face {
+    font-family: hadith-font;
+    src: url(al_qalam_quran_web.ttf);
+}
+
+@font-face {
+    font-family: non-arabic-font;
+    src: url(poppins_regular.ttf);
+}
+
+* {
+    color: var(--default-text-color);
+    font-family: non-arabic-font;
+}
+
+.quran {
+    font-family: quran-font;
+    direction: rtl;
+    font-size: 20px;
+    word-spacing: 0.25em;
+}
+
+.hadith {
+    font-family: hadith-font;
+    direction: rtl;
+    font-size: 20px;
+    word-spacing: 0.3em;
+}
+
+.sanad {
+    color: var(--sanad-text-color);
+}
+
+.reference {
+    color: var(--reference-text-color);
+    font-size: 13px;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #55C595
+}
