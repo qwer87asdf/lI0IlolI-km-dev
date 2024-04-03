@@ -1,18 +1,18 @@
 [
   {
     "id": 2,
-    "slug": "itikaf-fajilat-masala",
+    "slug": "eid-prayer-rules",
     "enable": true,
     "text_ad": {
-      "title_en": "রবিবার আসর থেকে ইতিকাফ শুরু",
-      "title_bn": "রবিবার আসর থেকে ইতিকাফ শুরু",
-      "message_en": "ইতিকাফ কেবল বয়ঃবৃদ্ধদের ইবাদত নয়। জেনে নিন এর ফজিলত ও মাসআলা",
-      "message_bn": "ইতিকাফ কেবল বয়ঃবৃদ্ধদের ইবাদত নয়। জেনে নিন এর ফজিলত ও মাসআলা",
+      "title_en": "ঈদের নামাজের নিয়ম",
+      "title_bn": "ঈদের নামাজের নিয়ম",
+      "message_en": "জেনে নিন অতিরিক্ত ৬ তাকবিরের সাথে ঈদের নামাজের সকল নিয়মকানুন",
+      "message_bn": "জেনে নিন অতিরিক্ত ৬ তাকবিরের সাথে ঈদের নামাজের সকল নিয়মকানুন",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
-    "action_url_en": "https://muslimsday.com/ইতিকাফ-ফজিলত-মাসআলা",
-    "action_url_bn": "https://muslimsday.com/ইতিকাফ-ফজিলত-মাসআলা",
+    "action_url_en": "https://muslimsday.com/ঈদের-নামাজের-নিয়ম",
+    "action_url_bn": "https://muslimsday.com/ঈদের-নামাজের-নিয়ম",
     "start_time": 1707279058,
     "end_time": 1709907276
   },
@@ -37,7 +37,7 @@
   {
     "id": 10,
     "slug": "fitra-2024",
-    "enable": false,
+    "enable": true,
     "text_ad": {
       "title_en": "২০২৪ সালের ফিতরার পরিমাণ কত টাকা?",
       "title_bn": "২০২৪ সালের ফিতরার পরিমাণ কত টাকা?",
