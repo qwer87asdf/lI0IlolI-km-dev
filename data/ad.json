@@ -18,19 +18,19 @@
   },
   {
     "id": 14,
-    "slug": "lailatul-qadr",
+    "slug": "new-taka-buy-sell-riba",
     "enable": true,
     "text_ad": {
-      "title_en": "মহিমান্বিত রাত 'শবে কদর'",
-      "title_bn": "মহিমান্বিত রাত 'শবে কদর'",
-      "message_en": "জেনে নিন এরাতের মাহাত্ম্য ও ফজিলত। কিভাবে কাটাবো এ রাত?",
-      "message_bn": "জেনে নিন এরাতের মাহাত্ম্য ও ফজিলত। কিভাবে কাটাবো এ রাত?",
+      "title_en": "নতুন টাকা ক্রয়-বিক্রয় করা রিবার অন্তর্ভুক্ত",
+      "title_bn": "নতুন টাকা ক্রয়-বিক্রয় করা রিবার অন্তর্ভুক্ত",
+      "message_en": "রিবার দ্বারা আল্লাহ ও তাঁর রাসূলের সা. বিরুদ্ধে যুদ্ধ ঘোষণা করা হয়",
+      "message_bn": "রিবার দ্বারা আল্লাহ ও তাঁর রাসূলের সা. বিরুদ্ধে যুদ্ধ ঘোষণা করা হয়",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/মহিমান্বিত-রাত-শবে-কদর",
-    "action_url_bn": "https://muslimsday.com/মহিমান্বিত-রাত-শবে-কদর",
+    "action_url_en": "https://muslimsday.com/নতুন-টাকা-কেনা-বেচা-রিবা",
+    "action_url_bn": "https://muslimsday.com/নতুন-টাকা-কেনা-বেচা-রিবা",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
