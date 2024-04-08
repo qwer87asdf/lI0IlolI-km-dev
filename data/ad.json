@@ -19,7 +19,7 @@
   {
     "id": 14,
     "slug": "new-taka-buy-sell-riba",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "নতুন টাকা ক্রয়-বিক্রয় করা রিবার অন্তর্ভুক্ত",
       "title_bn": "নতুন টাকা ক্রয়-বিক্রয় করা রিবার অন্তর্ভুক্ত",
@@ -37,7 +37,7 @@
   {
     "id": 10,
     "slug": "fitra-2024",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "২০২৪ সালের ফিতরার পরিমাণ কত টাকা?",
       "title_bn": "২০২৪ সালের ফিতরার পরিমাণ কত টাকা?",
