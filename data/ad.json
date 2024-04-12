@@ -1,25 +1,25 @@
 [
   {
     "id": 2,
-    "slug": "eid-prayer-rules",
+    "slug": "shawal-6-roja",
     "enable": true,
     "text_ad": {
-      "title_en": "ঈদের নামাজের নিয়ম",
-      "title_bn": "ঈদের নামাজের নিয়ম",
-      "message_en": "জেনে নিন অতিরিক্ত ৬ তাকবিরের সাথে ঈদের নামাজের সকল নিয়মকানুন",
-      "message_bn": "জেনে নিন অতিরিক্ত ৬ তাকবিরের সাথে ঈদের নামাজের সকল নিয়মকানুন",
+      "title_en": "শাওয়ালের ছয়টি রোজা রাখছেন তো?",
+      "title_bn": "শাওয়ালের ছয়টি রোজা রাখছেন তো?",
+      "message_en": "ঈদ পরবর্তী গুরুত্বপূর্ণ আমল। সারা বছর রোজার সওয়াব!",
+      "message_bn": "ঈদ পরবর্তী গুরুত্বপূর্ণ আমল। সারা বছর রোজার সওয়াব!",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
-    "action_url_en": "https://muslimsday.com/ঈদের-নামাজের-নিয়ম",
-    "action_url_bn": "https://muslimsday.com/ঈদের-নামাজের-নিয়ম",
+    "action_url_en": "https://muslimsday.com/শাওয়ালের-ছয়-রোজা",
+    "action_url_bn": "https://muslimsday.com/শাওয়ালের-ছয়-রোজা",
     "start_time": 1707279058,
     "end_time": 1709907276
   },
   {
     "id": 14,
     "slug": "eid-day-sunnah",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "ঈদের দিনের সুন্নত আমলসমূহ",
       "title_bn": "ঈদের দিনের সুন্নত আমলসমূহ",
@@ -55,7 +55,7 @@
   {
     "id": 9,
     "slug": "eid-prayer-common-mistake",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "ঈদের নামাজের কয়েকটি সাধারন ভুল",
       "title_bn": "ঈদের নামাজের কয়েকটি সাধারন ভুল",
