@@ -1,18 +1,18 @@
 [
   {
     "id": 2,
-    "slug": "shawal-6-roja",
+    "slug": "hajj-omra-all-post",
     "enable": true,
     "text_ad": {
-      "title_en": "শাওয়ালের আইয়ামে বীজের রোজা রাখছেন তো?",
-      "title_bn": "শাওয়ালের আইয়ামে বীজের রোজা রাখছেন তো?",
-      "message_en": "এমাসের রোজা ২৩, ২৪ ও ২৫ এপ্রিল - মঙ্গল, বুধ ও বৃহস্পতিবার",
-      "message_bn": "এমাসের রোজা ২৩, ২৪ ও ২৫ এপ্রিল - মঙ্গল, বুধ ও বৃহস্পতিবার",
+      "title_en": "হজ ও ওমরা বিষয়ে ইলম অর্জন করুন",
+      "title_bn": "হজ ও ওমরা বিষয়ে ইলম অর্জন করুন",
+      "message_en": "এ সম্পর্কিত মুসলিমস ডে ব্লগের সকল পোস্ট পড়া যাবে এখান থেকে",
+      "message_bn": "এ সম্পর্কিত মুসলিমস ডে ব্লগের সকল পোস্ট পড়া যাবে এখান থেকে",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
-    "action_url_en": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত",
-    "action_url_bn": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত",
+    "action_url_en": "https://muslimsday.com/tag/হজ-ওমরা/",
+    "action_url_bn": "https://muslimsday.com/tag/হজ-ওমরা/",
     "start_time": 1707279058,
     "end_time": 1709907276
   },
