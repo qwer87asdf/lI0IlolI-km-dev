@@ -1,18 +1,18 @@
 [
   {
     "id": 2,
-    "slug": "hajj-omra-all-post",
+    "slug": "takbir-tashrik",
     "enable": true,
     "text_ad": {
-      "title_en": "হজ ও ওমরা বিষয়ে ইলম অর্জন করুন",
-      "title_bn": "হজ ও ওমরা বিষয়ে ইলম অর্জন করুন",
-      "message_en": "এ সম্পর্কিত মুসলিমস ডে ব্লগের সকল পোস্ট পড়া যাবে এখান থেকে",
-      "message_bn": "এ সম্পর্কিত মুসলিমস ডে ব্লগের সকল পোস্ট পড়া যাবে এখান থেকে",
-      "button_text_en": "বিস্তারিত",
-      "button_text_bn": "বিস্তারিত"
+      "title_en": "তাকবীরে তাশরীকের ওয়াজিব আমল",
+      "title_bn": "তাকবীরে তাশরীকের ওয়াজিব আমল",
+      "message_en": "বাংলাদেশে তাকবির বলতে হবে ১৬ জুন ফজর থেকে ২০ জুন আসর পর্যন্ত",
+      "message_bn": "বাংলাদেশে তাকবির বলতে হবে ১৬ জুন ফজর থেকে ২০ জুন আসর পর্যন্ত",
+      "button_text_en": "পড়ুন",
+      "button_text_bn": "পড়ুন"
     },
-    "action_url_en": "https://muslimsday.com/tag/হজ-ওমরা/",
-    "action_url_bn": "https://muslimsday.com/tag/হজ-ওমরা/",
+    "action_url_en": "https://muslimsday.com/তাকবীরে-তাশরীক-মাসআলা",
+    "action_url_bn": "https://muslimsday.com/তাকবীরে-তাশরীক-মাসআলা",
     "start_time": 1707279058,
     "end_time": 1709907276
   },
@@ -36,13 +36,13 @@
   },
   {
     "id": 10,
-    "slug": "jilhajj-amol",
-    "enable": false,
+    "slug": "eid-prayer-rules",
+    "enable": true,
     "text_ad": {
-      "title_en": "জিলহজের ১ম দশ দিনের ফজিলত ও আমল",
-      "title_bn": "জিলহজের ১ম দশ দিনের ফজিলত ও আমল",
-      "message_en": "চুল-নখ কেটে ফেলুন ৭ জুন সূর্যাস্তের আগেই। অন্যান্য আমল সম্পর্কে জানুন",
-      "message_bn": "চুল-নখ কেটে ফেলুন ৭ জুন সূর্যাস্তের আগেই। অন্যান্য আমল সম্পর্কে জানুন",
+      "title_en": "ঈদের নামাজের নিয়ম",
+      "title_bn": "ঈদের নামাজের নিয়ম",
+      "message_en": "জেনে নিই সুন্নাহের আলোকে অতিরিক্ত ৬ তাকবিরের সাথে ঈদের নামাজের নিয়ম",
+      "message_bn": "জেনে নিই সুন্নাহের আলোকে অতিরিক্ত ৬ তাকবিরের সাথে ঈদের নামাজের নিয়ম",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
@@ -73,7 +73,7 @@
   {
     "id": 101,
     "slug": "donation",
-    "enable": false,
+    "enable": true,
     "text_ad": {
       "title_en": "Donate at Muslims Day App",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
