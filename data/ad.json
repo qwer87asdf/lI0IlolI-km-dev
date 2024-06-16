@@ -2,7 +2,7 @@
   {
     "id": 2,
     "slug": "takbir-tashrik",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "তাকবীরে তাশরীকের ওয়াজিব আমল",
       "title_bn": "তাকবীরে তাশরীকের ওয়াজিব আমল",
@@ -19,7 +19,7 @@
   {
     "id": 14,
     "slug": "qurbani-blog-post",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "কুরবানির মাসআলা জানুন",
       "title_bn": "কুরবানির মাসআলা জানুন",
@@ -73,7 +73,7 @@
   {
     "id": 101,
     "slug": "donation",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "Donate at Muslims Day App",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
