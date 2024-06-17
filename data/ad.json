@@ -37,7 +37,7 @@
   {
     "id": 10,
     "slug": "eid-prayer-rules",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "ঈদের নামাজের নিয়ম",
       "title_bn": "ঈদের নামাজের নিয়ম",
@@ -73,7 +73,7 @@
   {
     "id": 101,
     "slug": "donation",
-    "enable": false,
+    "enable": true,
     "text_ad": {
       "title_en": "Donate at Muslims Day App",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
