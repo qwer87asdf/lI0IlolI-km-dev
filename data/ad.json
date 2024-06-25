@@ -1,18 +1,18 @@
 [
   {
     "id": 2,
-    "slug": "takbir-tashrik",
-    "enable": false,
+    "slug": "muharram-quiz-2024",
+    "enable": true,
     "text_ad": {
-      "title_en": "তাকবীরে তাশরীকের ওয়াজিব আমল",
-      "title_bn": "তাকবীরে তাশরীকের ওয়াজিব আমল",
-      "message_en": "বাংলাদেশে তাকবির বলতে হবে ১৬ জুন ফজর থেকে ২০ জুন আসর পর্যন্ত",
-      "message_bn": "বাংলাদেশে তাকবির বলতে হবে ১৬ জুন ফজর থেকে ২০ জুন আসর পর্যন্ত",
-      "button_text_en": "পড়ুন",
-      "button_text_bn": "পড়ুন"
+      "title_en": "মুহাররম ও আশুরা কুইজ প্রতিযোগিতা ২০২৪",
+      "title_bn": "মুহাররম ও আশুরা কুইজ প্রতিযোগিতা ২০২৪",
+      "message_en": "মুহাররম ও আশুরার সঠিক ফজিলত ও ইলম জানুন। কুইজে অংশ নিন",
+      "message_bn": "মুহাররম ও আশুরার সঠিক ফজিলত ও ইলম জানুন। কুইজে অংশ নিন",
+      "button_text_en": "বিস্তারিত",
+      "button_text_bn": "বিস্তারিত"
     },
-    "action_url_en": "https://muslimsday.com/তাকবীরে-তাশরীক-মাসআলা",
-    "action_url_bn": "https://muslimsday.com/তাকবীরে-তাশরীক-মাসআলা",
+    "action_url_en": "https://muslimsday.com/মুহাররম-আশুরা-কুইজ-২০২৪",
+    "action_url_bn": "https://muslimsday.com/মুহাররম-আশুরা-কুইজ-২০২৪",
     "start_time": 1707279058,
     "end_time": 1709907276
   },
