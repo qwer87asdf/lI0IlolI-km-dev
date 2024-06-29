@@ -18,19 +18,19 @@
   },
   {
     "id": 14,
-    "slug": "qurbani-blog-post",
-    "enable": false,
+    "slug": "zaif-hadith",
+    "enable": true,
     "text_ad": {
-      "title_en": "কুরবানির মাসআলা জানুন",
-      "title_bn": "কুরবানির মাসআলা জানুন",
-      "message_en": "মুসলিমস ডে ব্লগে কুরবানি সম্পর্কে রয়েছে ১০টিরও বেশি প্রবন্ধ!",
-      "message_bn": "মুসলিমস ডে ব্লগে কুরবানি সম্পর্কে রয়েছে ১০টিরও বেশি প্রবন্ধ!",
+      "title_en": "শর্তসাপেক্ষে যঈফ হাদীসও আমলযোগ্য",
+      "title_bn": "শর্তসাপেক্ষে যঈফ হাদীসও আমলযোগ্য",
+      "message_en": "যঈফ হাদীস নিয়ে চরমপন্থা নয়; মধ্যপন্থী অবস্থানই কাম্য",
+      "message_bn": "যঈফ হাদীস নিয়ে চরমপন্থা নয়; মধ্যপন্থী অবস্থানই কাম্য",
       "button_text_en": "পড়ুন",
       "button_text_bn": "পড়ুন"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/কুরবানি-কুইজ-২০২৪",
-    "action_url_bn": "https://muslimsday.com/কুরবানি-কুইজ-২০২৪",
+    "action_url_en": "https://muslimsday.com/যঈফ-হাদীস-নিয়ে-চরমপন্থা",
+    "action_url_bn": "https://muslimsday.com/যঈফ-হাদীস-নিয়ে-চরমপন্থা",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
