@@ -2,7 +2,7 @@
   {
     "id": 2,
     "slug": "muharram-quiz-2024",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "মুহাররম ও আশুরা কুইজ প্রতিযোগিতা ২০২৪",
       "title_bn": "মুহাররম ও আশুরা কুইজ প্রতিযোগিতা ২০২৪",
@@ -18,37 +18,91 @@
   },
   {
     "id": 14,
-    "slug": "zaif-hadith",
+    "slug": "ashura-roja-fojilot",
     "enable": true,
     "text_ad": {
-      "title_en": "শর্তসাপেক্ষে যঈফ হাদীসও আমলযোগ্য",
-      "title_bn": "শর্তসাপেক্ষে যঈফ হাদীসও আমলযোগ্য",
-      "message_en": "যঈফ হাদীস নিয়ে চরমপন্থা নয়; মধ্যপন্থী অবস্থানই কাম্য",
-      "message_bn": "যঈফ হাদীস নিয়ে চরমপন্থা নয়; মধ্যপন্থী অবস্থানই কাম্য",
+      "title_en": "আশুরার রোজার ফজিলত",
+      "title_bn": "আশুরার রোজার ফজিলত",
+      "message_en": "মুসলিমস ডে ব্লগ থেকে জানুন আশুরার রোজার ফজিলত সম্পর্কে",
+      "message_bn": "মুসলিমস ডে ব্লগ থেকে জানুন আশুরার রোজার ফজিলত সম্পর্কে",
       "button_text_en": "পড়ুন",
       "button_text_bn": "পড়ুন"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/যঈফ-হাদীস-নিয়ে-চরমপন্থা",
-    "action_url_bn": "https://muslimsday.com/যঈফ-হাদীস-নিয়ে-চরমপন্থা",
+    "action_url_en": "https://muslimsday.com/আশুরার-রোজার-ফজিলত",
+    "action_url_bn": "https://muslimsday.com/আশুরার-রোজার-ফজিলত",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
   {
     "id": 10,
-    "slug": "eid-prayer-rules",
-    "enable": false,
+    "slug": "ashura-history",
+    "enable": true,
     "text_ad": {
-      "title_en": "ঈদের নামাজের নিয়ম",
-      "title_bn": "ঈদের নামাজের নিয়ম",
-      "message_en": "জেনে নিই সুন্নাহের আলোকে অতিরিক্ত ৬ তাকবিরের সাথে ঈদের নামাজের নিয়ম",
-      "message_bn": "জেনে নিই সুন্নাহের আলোকে অতিরিক্ত ৬ তাকবিরের সাথে ঈদের নামাজের নিয়ম",
+      "title_en": "ইতিহাসের আলোকে মহিমান্বিত আশুরা",
+      "title_bn": "ইতিহাসের আলোকে মহিমান্বিত আশুরা",
+      "message_en": "চলুন জেনে নেয়া যাক আশুরার মহিমান্বিত ইতিহাস",
+      "message_bn": "চলুন জেনে নেয়া যাক আশুরার মহিমান্বিত ইতিহাস",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/জিলহজের-১ম-দশকের-ফজিলত/",
-    "action_url_bn": "https://muslimsday.com/জিলহজের-১ম-দশকের-ফজিলত/",
+    "action_url_en": "https://muslimsday.com/মহিমান্বিত-আশুরার-ইতিহাস",
+    "action_url_bn": "https://muslimsday.com/মহিমান্বিত-আশুরার-ইতিহাস",
+    "start_time": 1707279058,
+    "end_time": 1708697676
+  },
+  {
+    "id": 9,
+    "slug": "ashura-shoker-mash-noy",
+    "enable": true,
+    "text_ad": {
+      "title_en": "মুহাররম শোকের মাস নয়",
+      "title_bn": "মুহাররম শোকের মাস নয়",
+      "message_en": "মুহাররম শোক কিংবা অপয়া মাস নয়। এটি মর্যাদাপূর্ণ \"আল্লাহর মাস\"",
+      "message_bn": "মুহাররম শোক কিংবা অপয়া মাস নয়। এটি মর্যাদাপূর্ণ \"আল্লাহর মাস\"",
+      "button_text_en": "বিস্তারিত",
+      "button_text_bn": "বিস্তারিত"
+    },
+    "image_ad": null,
+    "action_url_en": "https://muslimsday.com/মুহাররম-শোকের-মাস-নয়",
+    "action_url_bn": "https://muslimsday.com/মুহাররম-শোকের-মাস-নয়",
+    "start_time": 1707279058,
+    "end_time": 1708697676
+  },
+  {
+    "id": 8,
+    "slug": "muharram-fojilot-amol",
+    "enable": true,
+    "text_ad": {
+      "title_en": "মুহাররম মাসের ফজিলত ও আমল",
+      "title_bn": "মুহাররম মাসের ফজিলত ও আমল",
+      "message_en": "এমাসের ফজিলত ও আমল সম্পর্কে জানুন। কুসংস্কার ও বিদআত থেকে বেঁচে থাকুন",
+      "message_bn": "এমাসের ফজিলত ও আমল সম্পর্কে জানুন। কুসংস্কার ও বিদআত থেকে বেঁচে থাকুন",
+      "button_text_en": "বিস্তারিত",
+      "button_text_bn": "বিস্তারিত"
+    },
+    "image_ad": null,
+    "action_url_en": "https://muslimsday.com/মুহাররম-মাস-ফজিলত-ও-আমল",
+    "action_url_bn": "https://muslimsday.com/মুহাররম-মাস-ফজিলত-ও-আমল",
+    "start_time": 1707279058,
+    "end_time": 1708697676
+  },
+  {
+    "id": 7,
+    "slug": "tazia-misil",
+    "enable": true,
+    "text_ad": {
+      "title_en": "শিয়াদের তাজিয়া মিছিল ও শোক প্রকাশ",
+      "title_bn": "শিয়াদের তাজিয়া মিছিল ও শোক প্রকাশ",
+      "message_en": "ইসলামী শরীয়ার দৃষ্টিকোণ থেকে তাজিয়া মিছিল ও শোক প্রকাশের বিধান",
+      "message_bn": "ইসলামী শরীয়ার দৃষ্টিকোণ থেকে তাজিয়া মিছিল ও শোক প্রকাশের বিধান",
+      "button_text_en": "বিস্তারিত",
+      "button_text_bn": "বিস্তারিত"
+    },
+    "image_ad": null,
+    "action_url_en": "https://muslimsday.com/শিয়াদের-তাজিয়া-মিছিল",
+    "action_url_bn": "https://muslimsday.com/শিয়াদের-তাজিয়া-মিছিল",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
@@ -57,10 +111,10 @@
     "slug": "aiyame-beej-banner",
     "enable": false,
     "text_ad": {
-      "title_en": "যুল কা'দা মাসের আইয়ামে বীজের রোজা রাখছেন তো?",
-      "title_bn": "যুল কা'দা মাসের আইয়ামে বীজের রোজা রাখছেন তো?",
-      "message_en": "এমাসের রোজা: ২২, ২৩ ও ২৪ মে। ফজিলত ও মাসআলা জানুন",
-      "message_bn": "এমাসের রোজা: ২২, ২৩ ও ২৪ মে। ফজিলত ও মাসআলা জানুন",
+      "title_en": "মুহাররম মাসের আইয়ামে বীজের রোজা রাখছেন তো?",
+      "title_bn": "মুহাররম মাসের আইয়ামে বীজের রোজা রাখছেন তো?",
+      "message_en": "এমাসের রোজা: ২০, ২১ ও ২২ জুলাই। এ রোজার ফজিলত ও মাসআলা জানুন",
+      "message_bn": "এমাসের রোজা: ২০, ২১ ও ২২ জুলাই। এ রোজার ফজিলত ও মাসআলা জানুন",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
