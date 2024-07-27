@@ -129,12 +129,12 @@
     "slug": "donation",
     "enable": true,
     "text_ad": {
-      "title_en": "Donate at Muslims Day App",
+      "title_en": "Donate at Muslims Day",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
       "message_en": "Zakat-Fitra cannot be given. Donate as gift",
-      "message_bn": "যাকাত-ফিতরা দেয়া যাবে না। সাধারন অনুদান বা গিফট দিতে পারেন",
-      "button_text_en": "Donate Now",
-      "button_text_bn": "অনুদান দিন"
+      "message_bn": "যাকাত-ফিতরা দেয়া যাবে না। সাধারন অনুদান দিতে পারেন",
+      "button_text_en": "Donate",
+      "button_text_bn": "Donate"
     },
     "image_ad": null,
     "action_url_en": "https://muslimsday.com/donation/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach",
