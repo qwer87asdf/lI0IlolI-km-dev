@@ -127,7 +127,7 @@
   {
     "id": 101,
     "slug": "donation",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "Donate at Muslims Day",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
