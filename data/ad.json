@@ -18,19 +18,19 @@
   },
   {
     "id": 14,
-    "slug": "ashura-roja-fojilot",
-    "enable": false,
+    "slug": "hasinar-poton",
+    "enable": true,
     "text_ad": {
-      "title_en": "আশুরার রোজার ফজিলত",
-      "title_bn": "আশুরার রোজার ফজিলত",
-      "message_en": "মুসলিমস ডে ব্লগ থেকে জানুন আশুরার রোজার ফজিলত সম্পর্কে",
-      "message_bn": "মুসলিমস ডে ব্লগ থেকে জানুন আশুরার রোজার ফজিলত সম্পর্কে",
+      "title_en": "স্বৈরাচার খুনী হাসিনার পতন!",
+      "title_bn": "স্বৈরাচার খুনী হাসিনার পতন!",
+      "message_en": "আসুন আল্লাহর কাছে কৃতজ্ঞতায় নতশির হই। বিশৃঙ্খলা না করি",
+      "message_bn": "আসুন আল্লাহর কাছে কৃতজ্ঞতায় নতশির হই। বিশৃঙ্খলা না করি",
       "button_text_en": "পড়ুন",
       "button_text_bn": "পড়ুন"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/আশুরার-রোজার-ফজিলত",
-    "action_url_bn": "https://muslimsday.com/আশুরার-রোজার-ফজিলত",
+    "action_url_en": "https://muslimsday.com/হাসিনার-পতনে-শুকরিয়া",
+    "action_url_bn": "https://muslimsday.com/হাসিনার-পতনে-শুকরিয়া",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
