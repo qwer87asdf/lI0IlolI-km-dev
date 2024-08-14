@@ -2,7 +2,7 @@
   {
     "id": 2,
     "slug": "muminer-bijoy",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "মুমিনের বিজয় উদযাপন কেমন হবে?",
       "title_bn": "মুমিনের বিজয় উদযাপন কেমন হবে?",
@@ -19,7 +19,7 @@
   {
     "id": 14,
     "slug": "hasinar-poton",
-    "enable": true,
+    "enable": false,
     "text_ad": {
       "title_en": "স্বৈরাচার শাসনের পতন!",
       "title_bn": "স্বৈরাচার শাসনের পতন!",
@@ -109,12 +109,12 @@
   {
     "id": 9,
     "slug": "aiyame-beej-banner",
-    "enable": false,
+    "enable": true,
     "text_ad": {
-      "title_en": "মুহাররম মাসের আইয়ামে বীজের রোজা রাখছেন তো?",
-      "title_bn": "মুহাররম মাসের আইয়ামে বীজের রোজা রাখছেন তো?",
-      "message_en": "এমাসের রোজা: ২০, ২১ ও ২২ জুলাই। এ রোজার ফজিলত ও মাসআলা জানুন",
-      "message_bn": "এমাসের রোজা: ২০, ২১ ও ২২ জুলাই। এ রোজার ফজিলত ও মাসআলা জানুন",
+      "title_en": "সফর মাসের আইয়ামে বীজের রোজা রাখছেন তো?",
+      "title_bn": "সফর মাসের আইয়ামে বীজের রোজা রাখছেন তো?",
+      "message_en": "রোজার তারিখ: ১৯, ২০ ও ২১ আগস্ট। এ রোজার ফজিলত ও মাসআলা জানুন",
+      "message_bn": "রোজার তারিখ: ১৯, ২০ ও ২১ আগস্ট। এ রোজার ফজিলত ও মাসআলা জানুন",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
@@ -127,7 +127,7 @@
   {
     "id": 101,
     "slug": "donation",
-    "enable": false,
+    "enable": true,
     "text_ad": {
       "title_en": "Donate at Muslims Day",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
