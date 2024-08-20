@@ -2,7 +2,7 @@
   {
     "id": 2,
     "slug": "muminer-bijoy",
-    "enable": true,
+    "enable": false,
     "platform": "ios",
     "text_ad": {
       "title_en": "মুমিনের বিজয় উদযাপন কেমন হবে?",
@@ -134,7 +134,7 @@
   {
     "id": 101,
     "slug": "donation",
-    "enable": true,
+    "enable": false,
     "platform": "all",
     "text_ad": {
       "title_en": "Donate at Muslims Day",
