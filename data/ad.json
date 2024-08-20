@@ -3,6 +3,7 @@
     "id": 2,
     "slug": "muminer-bijoy",
     "enable": false,
+    "platform": "all",
     "text_ad": {
       "title_en": "মুমিনের বিজয় উদযাপন কেমন হবে?",
       "title_bn": "মুমিনের বিজয় উদযাপন কেমন হবে?",
@@ -20,6 +21,7 @@
     "id": 14,
     "slug": "hasinar-poton",
     "enable": false,
+    "platform": "android",
     "text_ad": {
       "title_en": "স্বৈরাচার শাসনের পতন!",
       "title_bn": "স্বৈরাচার শাসনের পতন!",
@@ -38,6 +40,7 @@
     "id": 10,
     "slug": "ashura-history",
     "enable": false,
+    "platform": "ios",
     "text_ad": {
       "title_en": "ইতিহাসের আলোকে মহিমান্বিত আশুরা",
       "title_bn": "ইতিহাসের আলোকে মহিমান্বিত আশুরা",
@@ -56,6 +59,7 @@
     "id": 9,
     "slug": "ashura-shoker-mash-noy",
     "enable": false,
+    "platform": "all",
     "text_ad": {
       "title_en": "মুহাররম শোকের মাস নয়",
       "title_bn": "মুহাররম শোকের মাস নয়",
@@ -74,6 +78,7 @@
     "id": 8,
     "slug": "muharram-fojilot-amol",
     "enable": false,
+    "platform": "all",
     "text_ad": {
       "title_en": "মুহাররম মাসের ফজিলত ও আমল",
       "title_bn": "মুহাররম মাসের ফজিলত ও আমল",
@@ -92,6 +97,7 @@
     "id": 7,
     "slug": "tazia-misil",
     "enable": false,
+    "platform": "all",
     "text_ad": {
       "title_en": "শিয়াদের তাজিয়া মিছিল ও শোক প্রকাশ",
       "title_bn": "শিয়াদের তাজিয়া মিছিল ও শোক প্রকাশ",
@@ -110,6 +116,7 @@
     "id": 9,
     "slug": "aiyame-beej-banner",
     "enable": true,
+    "platform": "all",
     "text_ad": {
       "title_en": "আইয়ামে বীজের রোজা রাখছেন তো?",
       "title_bn": "আইয়ামে বীজের রোজা রাখছেন তো?",
@@ -128,6 +135,7 @@
     "id": 101,
     "slug": "donation",
     "enable": true,
+    "platform": "all",
     "text_ad": {
       "title_en": "Donate at Muslims Day",
       "title_bn": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন",
