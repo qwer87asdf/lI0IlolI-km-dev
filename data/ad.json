@@ -2,8 +2,8 @@
   {
     "id": 2,
     "slug": "muminer-bijoy",
-    "enable": false,
-    "platform": "all",
+    "enable": true,
+    "platform": "ios",
     "text_ad": {
       "title_en": "মুমিনের বিজয় উদযাপন কেমন হবে?",
       "title_bn": "মুমিনের বিজয় উদযাপন কেমন হবে?",
@@ -95,28 +95,28 @@
   },
   {
     "id": 7,
-    "slug": "tazia-misil",
-    "enable": false,
-    "platform": "all",
+    "slug": "akheri-chahar-shomba",
+    "enable": true,
+    "platform": "android",
     "text_ad": {
-      "title_en": "শিয়াদের তাজিয়া মিছিল ও শোক প্রকাশ",
-      "title_bn": "শিয়াদের তাজিয়া মিছিল ও শোক প্রকাশ",
-      "message_en": "ইসলামী শরীয়ার দৃষ্টিকোণ থেকে তাজিয়া মিছিল ও শোক প্রকাশের বিধান",
-      "message_bn": "ইসলামী শরীয়ার দৃষ্টিকোণ থেকে তাজিয়া মিছিল ও শোক প্রকাশের বিধান",
+      "title_en": "আখেরি চাহার সোম্বা",
+      "title_bn": "আখেরি চাহার সোম্বা",
+      "message_en": "সফর মাসের বহুল প্রচলিত বিদআত ও ভ্রান্ত রেওয়াজ",
+      "message_bn": "সফর মাসের বহুল প্রচলিত বিদআত ও ভ্রান্ত রেওয়াজ",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/শিয়াদের-তাজিয়া-মিছিল",
-    "action_url_bn": "https://muslimsday.com/শিয়াদের-তাজিয়া-মিছিল",
+    "action_url_en": "https://muslimsday.com/আখেরী-চাহার-সোম্বা-বিদআত",
+    "action_url_bn": "https://muslimsday.com/আখেরী-চাহার-সোম্বা-বিদআত",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
   {
     "id": 9,
     "slug": "aiyame-beej-banner",
-    "enable": true,
-    "platform": "all",
+    "enable": false,
+    "platform": "ios",
     "text_ad": {
       "title_en": "আইয়ামে বীজের রোজা রাখছেন তো?",
       "title_bn": "আইয়ামে বীজের রোজা রাখছেন তো?",
