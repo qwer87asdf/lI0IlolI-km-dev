@@ -1,19 +1,19 @@
 [
   {
     "id": 2,
-    "slug": "muminer-bijoy",
-    "enable": false,
+    "slug": "flood-donation",
+    "enable": true,
     "platform": "ios",
     "text_ad": {
-      "title_en": "মুমিনের বিজয় উদযাপন কেমন হবে?",
-      "title_bn": "মুমিনের বিজয় উদযাপন কেমন হবে?",
-      "message_en": "জেনে নিন মুমিন হিসাবে কী করা উচিত আর কী করা যাবে না?",
-      "message_bn": "জেনে নিন মুমিন হিসাবে কী করা উচিত আর কী করা যাবে না?",
-      "button_text_en": "পড়ুন",
-      "button_text_bn": "পড়ুন"
+      "title_en": "বন্যার্তদের সাহায্যের জন্য অনুদান দিন",
+      "title_bn": "বন্যার্তদের সাহায্যের জন্য অনুদান দিন",
+      "message_en": "কয়েকটি নির্ভরযোগ্য প্রতিষ্ঠানের তথ্য দেয়া হলো। সাধ্য মত অংশগ্রহন করুন",
+      "message_bn": "কয়েকটি নির্ভরযোগ্য প্রতিষ্ঠানের তথ্য দেয়া হলো। সাধ্য মত অংশগ্রহন করুন",
+      "button_text_en": "বিস্তারিত",
+      "button_text_bn": "বিস্তারিত"
     },
-    "action_url_en": "https://muslimsday.com/মুমিনের-বিজয়-উদযাপন",
-    "action_url_bn": "https://muslimsday.com/মুমিনের-বিজয়-উদযাপন",
+    "action_url_en": "https://muslimsday.com/august-2024-flood-donation/",
+    "action_url_bn": "https://muslimsday.com/august-2024-flood-donation/",
     "start_time": 1707279058,
     "end_time": 1709907276
   },
@@ -96,7 +96,7 @@
   {
     "id": 7,
     "slug": "akheri-chahar-shomba",
-    "enable": true,
+    "enable": false,
     "platform": "android",
     "text_ad": {
       "title_en": "আখেরি চাহার সোম্বা",
