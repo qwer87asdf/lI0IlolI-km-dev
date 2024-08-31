@@ -2,7 +2,7 @@
   {
     "id": 2,
     "slug": "flood-donation",
-    "enable": true,
+    "enable": false,
     "platform": "ios",
     "text_ad": {
       "title_en": "বন্যার্তদের সাহায্যের জন্য অনুদান দিন",
@@ -20,7 +20,7 @@
   {
     "id": 14,
     "slug": "flood-donation-fazilat",
-    "enable": true,
+    "enable": false,
     "platform": "android",
     "text_ad": {
       "title_en": "আকস্মিক বন্যায় বিপর্যস্ত দেশ",
@@ -38,20 +38,20 @@
   },
   {
     "id": 10,
-    "slug": "ashura-history",
-    "enable": false,
+    "slug": "muharram-quiz",
+    "enable": true,
     "platform": "ios",
     "text_ad": {
-      "title_en": "ইতিহাসের আলোকে মহিমান্বিত আশুরা",
-      "title_bn": "ইতিহাসের আলোকে মহিমান্বিত আশুরা",
-      "message_en": "চলুন জেনে নেয়া যাক আশুরার মহিমান্বিত ইতিহাস",
-      "message_bn": "চলুন জেনে নেয়া যাক আশুরার মহিমান্বিত ইতিহাস",
+      "title_en": "মুহাররম কুইজ ২০২৪",
+      "title_bn": "মুহাররম কুইজ ২০২৪",
+      "message_en": "কুইজ অনুষ্ঠিত হবে ৬ সেপ্টেম্বর ২০২৪, শুক্রবার",
+      "message_bn": "কুইজ অনুষ্ঠিত হবে ৬ সেপ্টেম্বর ২০২৪, শুক্রবার",
       "button_text_en": "বিস্তারিত",
       "button_text_bn": "বিস্তারিত"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/মহিমান্বিত-আশুরার-ইতিহাস",
-    "action_url_bn": "https://muslimsday.com/মহিমান্বিত-আশুরার-ইতিহাস",
+    "action_url_en": "https://muslimsday.com/মুহাররম-আশুরা-কুইজ-২০২৪",
+    "action_url_bn": "https://muslimsday.com/মুহাররম-আশুরা-কুইজ-২০২৪",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
