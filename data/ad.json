@@ -96,7 +96,7 @@
   {
     "id": 7,
     "slug": "akheri-chahar-shomba",
-    "enable": true,
+    "enable": false,
     "platform": "android",
     "text_ad": {
       "title_en": "আখেরি চাহার সোম্বা",
