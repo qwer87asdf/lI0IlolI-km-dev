@@ -1,57 +1,57 @@
 [
   {
     "id": 2,
-    "slug": "flood-donation",
-    "enable": false,
+    "slug": "miladunnabi-history",
+    "enable": true,
     "platform": "ios",
     "text_ad": {
-      "title_en": "বন্যার্তদের সাহায্যের জন্য অনুদান দিন",
-      "title_bn": "বন্যার্তদের সাহায্যের জন্য অনুদান দিন",
-      "message_en": "কয়েকটি নির্ভরযোগ্য প্রতিষ্ঠানের তথ্য দেয়া হলো। সাধ্য মত অংশগ্রহন করুন",
-      "message_bn": "কয়েকটি নির্ভরযোগ্য প্রতিষ্ঠানের তথ্য দেয়া হলো। সাধ্য মত অংশগ্রহন করুন",
-      "button_text_en": "Donate",
-      "button_text_bn": "Donate"
+      "title_en": "ঈদে মীলাদুন্নবীর ইতিহাস ও হাস্যকর কিছু দাবী",
+      "title_bn": "ঈদে মীলাদুন্নবীর ইতিহাস ও হাস্যকর কিছু দাবী",
+      "message_en": "মাওলানা শিব্বীর আহমদ সাহেবের লিখা ব্লগপোস্টটি পড়তে ক্লিক করুন",
+      "message_bn": "মাওলানা শিব্বীর আহমদ সাহেবের লিখা ব্লগপোস্টটি পড়তে ক্লিক করুন",
+      "button_text_en": "Read",
+      "button_text_bn": "পড়ুন"
     },
-    "action_url_en": "https://muslimsday.com/august-2024-flood-donation/",
-    "action_url_bn": "https://muslimsday.com/august-2024-flood-donation/",
+    "action_url_en": "https://muslimsday.com/ঈদে-মীলাদুন্নবীর-ইতিহাস",
+    "action_url_bn": "https://muslimsday.com/ঈদে-মীলাদুন্নবীর-ইতিহাস",
     "start_time": 1707279058,
     "end_time": 1709907276
   },
   {
     "id": 14,
-    "slug": "flood-donation-fazilat",
-    "enable": false,
+    "slug": "birthday-history",
+    "enable": true,
     "platform": "android",
     "text_ad": {
-      "title_en": "আকস্মিক বন্যায় বিপর্যস্ত দেশ",
-      "title_bn": "আকস্মিক বন্যায় বিপর্যস্ত দেশ",
-      "message_en": "আসুন, আমরা বিপদগ্রস্ত ভাই-বোনদের পাশে দাঁড়াই",
-      "message_bn": "আসুন, আমরা বিপদগ্রস্ত ভাই-বোনদের পাশে দাঁড়াই",
-      "button_text_en": "পড়ুন",
+      "title_en": "প্রসঙ্গ মীলাদুন্নবী: জন্মদিন পালনের ইতিহাস",
+      "title_bn": "প্রসঙ্গ মীলাদুন্নবী: জন্মদিন পালনের ইতিহাস",
+      "message_en": "ইসলামে জন্মদিন পালনের শরয়ী বিধান সম্পর্কে জানুন",
+      "message_bn": "ইসলামে জন্মদিন পালনের শরয়ী বিধান সম্পর্কে জানুন",
+      "button_text_en": "Read",
       "button_text_bn": "পড়ুন"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/আকস্মিক-বন্যায়-সহযোগিতা/",
-    "action_url_bn": "https://muslimsday.com/আকস্মিক-বন্যায়-সহযোগিতা/",
+    "action_url_en": "https://muslimsday.com/জন্মদিন-পালনের-ইতিহাস",
+    "action_url_bn": "https://muslimsday.com/জন্মদিন-পালনের-ইতিহাস",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
   {
     "id": 10,
-    "slug": "muharram-quiz",
+    "slug": "12-rabiul-awwal-miladunnabi",
     "enable": true,
     "platform": "ios",
     "text_ad": {
-      "title_en": "মুহাররম কুইজ ২০২৪",
-      "title_bn": "মুহাররম কুইজ ২০২৪",
-      "message_en": "কুইজ অনুষ্ঠিত হবে ৬ সেপ্টেম্বর ২০২৪, শুক্রবার",
-      "message_bn": "কুইজ অনুষ্ঠিত হবে ৬ সেপ্টেম্বর ২০২৪, শুক্রবার",
-      "button_text_en": "বিস্তারিত",
-      "button_text_bn": "বিস্তারিত"
+      "title_en": "১২ই রবিউল আউয়াল তারিখ",
+      "title_bn": "১২ই রবিউল আউয়াল তারিখ",
+      "message_en": "এটিই কি নিশ্চিত ভাবে নবীজির সা. জন্মদিন?",
+      "message_bn": "এটিই কি নিশ্চিত ভাবে নবীজির সা. জন্মদিন?",
+      "button_text_en": "Read",
+      "button_text_bn": "পড়ুন"
     },
     "image_ad": null,
-    "action_url_en": "https://muslimsday.com/মুহাররম-আশুরা-কুইজ-২০২৪",
-    "action_url_bn": "https://muslimsday.com/মুহাররম-আশুরা-কুইজ-২০২৪",
+    "action_url_en": "https://muslimsday.com/১২-রবিউল-আউয়াল",
+    "action_url_bn": "https://muslimsday.com/১২-রবিউল-আউয়াল",
     "start_time": 1707279058,
     "end_time": 1708697676
   },
@@ -134,7 +134,7 @@
   {
     "id": 101,
     "slug": "donation",
-    "enable": false,
+    "enable": true,
     "platform": "all",
     "text_ad": {
       "title_en": "Donate at Muslims Day",
