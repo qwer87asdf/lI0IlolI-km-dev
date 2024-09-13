@@ -56,44 +56,6 @@
     "end_time": 1708697676
   },
   {
-    "id": 9,
-    "slug": "ashura-shoker-mash-noy",
-    "enable": false,
-    "platform": "all",
-    "text_ad": {
-      "title_en": "মুহাররম শোকের মাস নয়",
-      "title_bn": "মুহাররম শোকের মাস নয়",
-      "message_en": "মুহাররম শোক কিংবা অপয়া মাস নয়। এটি মর্যাদাপূর্ণ \"আল্লাহর মাস\"",
-      "message_bn": "মুহাররম শোক কিংবা অপয়া মাস নয়। এটি মর্যাদাপূর্ণ \"আল্লাহর মাস\"",
-      "button_text_en": "বিস্তারিত",
-      "button_text_bn": "বিস্তারিত"
-    },
-    "image_ad": null,
-    "action_url_en": "https://muslimsday.com/মুহাররম-শোকের-মাস-নয়",
-    "action_url_bn": "https://muslimsday.com/মুহাররম-শোকের-মাস-নয়",
-    "start_time": 1707279058,
-    "end_time": 1708697676
-  },
-  {
-    "id": 8,
-    "slug": "muharram-fojilot-amol",
-    "enable": false,
-    "platform": "all",
-    "text_ad": {
-      "title_en": "মুহাররম মাসের ফজিলত ও আমল",
-      "title_bn": "মুহাররম মাসের ফজিলত ও আমল",
-      "message_en": "এমাসের ফজিলত ও আমল সম্পর্কে জানুন। কুসংস্কার ও বিদআত থেকে বেঁচে থাকুন",
-      "message_bn": "এমাসের ফজিলত ও আমল সম্পর্কে জানুন। কুসংস্কার ও বিদআত থেকে বেঁচে থাকুন",
-      "button_text_en": "বিস্তারিত",
-      "button_text_bn": "বিস্তারিত"
-    },
-    "image_ad": null,
-    "action_url_en": "https://muslimsday.com/মুহাররম-মাস-ফজিলত-ও-আমল",
-    "action_url_bn": "https://muslimsday.com/মুহাররম-মাস-ফজিলত-ও-আমল",
-    "start_time": 1707279058,
-    "end_time": 1708697676
-  },
-  {
     "id": 7,
     "slug": "akheri-chahar-shomba",
     "enable": false,
