@@ -1,4 +1,5 @@
 {
   "isIfaEnable": true,
-  "isAdNetworkEnable": true
+  "isAdNetworkHomeBannerEnable": true,
+  "isAdNetworkSaomTimeBannerEnable": true
 }
