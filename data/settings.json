@@ -10,14 +10,8 @@
       {
         "isEnable": true,
         "adType": "image-320x100",
-        "placement": "home-page",
-        "divId": "under-saalat-time"
-      },
-      {
-        "isEnable": true,
-        "adType": "image-320x100",
-        "placement": "saom-full-screen-page",
-        "divId": "under-saom-card-time"
+        "placement": "home-page-ios",
+        "divId": "above-salat-time-ios"
       }
     ]
   }
