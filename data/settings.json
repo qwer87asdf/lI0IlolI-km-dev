@@ -1,5 +1,24 @@
 {
   "isIfaEnable": true,
-  "isAdNetworkHomeBannerEnable": true,
-  "isAdNetworkSaomTimeBannerEnable": true
+  "adNetworkConfig": {
+    "minDaysBeforeAdShown": 3,
+    "isEnable": true,
+    "publisher": "muslims-day",
+    "format": "json",
+    "campaign_types": "paid|publisher-house|community|house",
+    "ads": [
+      {
+        "isEnable": true,
+        "adType": "image-320x100",
+        "placement": "home-page",
+        "divId": "under-saalat-time"
+      },
+      {
+        "isEnable": true,
+        "adType": "image-320x100",
+        "placement": "saom-full-screen-page",
+        "divId": "under-saom-card-time"
+      }
+    ]
+  }
 }
