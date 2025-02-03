@@ -1,7 +1,7 @@
 {
   "isIfaEnable": true,
   "adNetworkConfig": {
-    "minDaysBeforeAdShown": 3,
+    "minDaysBeforeAdShown": 0,
     "isEnable": true,
     "publisher": "muslims-day",
     "format": "json",
