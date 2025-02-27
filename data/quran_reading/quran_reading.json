@@ -1,0 +1,48 @@
+[
+  {
+    "id": "hafeji",
+    "name_en": "Hafeji Quran (Emdadia Library)",
+    "name_bn": "হাফেজি কুরআন (এমদাদিয়া লাইব্রেরি)",
+    "thumbnail": "data/quran_reading/hafezi_emdadia/thumbnail.jpg",
+    "sample_image": "data/quran_reading/hafezi_emdadia/sample.jpg",
+    "file_size": "35 MB",
+    "sha256": "57f27ed18e14855a30805a79f7b5f3126412c631e3907e85d074e756425c3344",
+    "data": {
+      "surah_mapping": {
+        "url": "data/quran_reading/hafezi_emdadia/surah_mapping.csv",
+        "updaed_at": 1718118114
+      },
+      "para_mapping": {
+        "url": "data/quran_reading/hafezi_emdadia/para_mapping.csv",
+        "updaed_at": 1718118114
+      },
+      "pages": {
+        "url": "data/quran_reading/hafezi_emdadia/mushaf.pdf",
+        "updaed_at": 1718118114
+      }
+    }
+  },
+  {
+    "id": "nurani",
+    "name_en": "Nurani Quran (Kolkata print)",
+    "name_bn": "নুরানী কুরআন (কোলকাতা ছাপা)",
+    "thumbnail": "data/quran_reading/nurani/thumbnail.jpg",
+    "sample_image": "data/quran_reading/nurani/sample.jpg",
+    "file_size": "20 MB",
+    "sha256": "103915e9d5431be4785cfa8d204b7b96eb95714a2bafd013dfab721eb6ca60d0",
+    "data": {
+      "surah_mapping": {
+        "url": "data/quran_reading/nurani/surah_mapping.csv",
+        "updaed_at": 1718118114
+      },
+      "para_mapping": {
+        "url": "data/quran_reading/nurani/para_mapping.csv",
+        "updaed_at": 1718118114
+      },
+      "pages": {
+        "url": "data/quran_reading/nurani/mushaf.pdf",
+        "updaed_at": 1718118114
+      }
+    }
+  }
+]

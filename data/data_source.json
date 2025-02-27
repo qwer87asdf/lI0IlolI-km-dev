@@ -83,5 +83,10 @@
     "name": "audio_quran",
     "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/audio_quran.json",
     "updated_at": 1722908208511
+  },
+  {
+    "name": "quran_reading",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/quran_reading/quran_reading.json",
+    "updated_at": 1694435900
   }
 ]
