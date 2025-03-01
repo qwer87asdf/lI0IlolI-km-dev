@@ -1,5 +1,5 @@
 {
-  "isIfaEnable": true,
+  "isIfaEnable": false,
   "adNetworkConfig": {
     "minDaysBeforeAdShown": 0,
     "isEnable": true,
