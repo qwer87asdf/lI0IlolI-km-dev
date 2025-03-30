@@ -68,14 +68,14 @@
     "name_en": "Ramadan",
     "name_bn": "রমাদান",
     "start": "2025-03-02",
-    "end": "2025-03-31",
+    "end": "2025-03-30",
     "hijri_year": "1446"
   },
   {
     "order": 10,
     "name_en": "Shawwal",
     "name_bn": "শাওয়াল",
-    "start": "2025-04-01",
+    "start": "2025-03-31",
     "end": "2025-04-29",
     "hijri_year": "1446"
   },
