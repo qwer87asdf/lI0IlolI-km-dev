@@ -1,0 +1,124 @@
+{
+  "fallback_ads": [
+    {
+      "id": 1,
+      "type": "banner-640x200",
+      "title": "চেয়ারে বসে নামাজ আদায়ের বিধান",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/muslims_day/banner_640x200/chair%20e%20boshe%20namaz%20aday%20640%20200-01.webp",
+      "click_url": "https://muslimsday.com/চেয়ারে-বসে-নামায-বিধান/",
+      "brand_name": "Muslims Day",
+      "brand_image": "",
+      "cta": ""
+    },
+    {
+      "id": 2,
+      "type": "banner-600x94",
+      "title": "চেয়ারে বসে নামাজ আদায়ের বিধান",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/muslims_day/banner_600x94/chair%20e%20boshe%20namaz%20aday%20600%2094-01.webp",
+      "click_url": "https://muslimsday.com/চেয়ারে-বসে-নামায-বিধান/",
+      "brand_name": "Muslims Day",
+      "brand_image": "",
+      "cta": ""
+    },
+    {
+      "id": 3,
+      "type": "feed-thumbnail",
+      "title": "চেয়ারে বসে নামাজ আদায়ের বিধান",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/muslims_day/feed_thumbnail/chair%20e%20boshe%20namaz%20aday%20640%20360-01.webp",
+      "click_url": "https://muslimsday.com/চেয়ারে-বসে-নামায-বিধান/",
+      "brand_name": "Muslims Day",
+      "brand_image": "https://play-lh.googleusercontent.com/s7TXQfPoClf2Fcd8YSC8Vd3_EPwemkj7mv10zJQKQOOcHPi884P-WC-p7qxj5rUcpEY=w480-h960-rw",
+      "cta": "Read"
+    },
+    {
+      "id": 4,
+      "type": "banner-640x200",
+      "title": "নবজাতকের জন্য ইসলামের উপহার",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/muslims_day/banner_640x200/nobojatok%20er%20jnno%20islam%20er%20upohar%20640%20200-01.webp",
+      "click_url": "https://muslimsday.com/নবজাতকের-উপহার/",
+      "brand_name": "Muslims Day",
+      "brand_image": "",
+      "cta": ""
+    },
+    {
+      "id": 5,
+      "type": "banner-600x94",
+      "title": "নবজাতকের জন্য ইসলামের উপহার",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/muslims_day/banner_600x94/nobojatok%20er%20jnno%20islam%20er%20upohar%20600%2094-01.webp",
+      "click_url": "https://muslimsday.com/নবজাতকের-উপহার/",
+      "brand_name": "Muslims Day",
+      "brand_image": "",
+      "cta": ""
+    },
+    {
+      "id": 6,
+      "type": "feed-thumbnail",
+      "title": "নবজাতকের জন্য ইসলামের উপহার",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/muslims_day/feed_thumbnail/nobojatok%20er%20jnno%20islam%20er%20upohar%20640%20360.webp",
+      "click_url": "https://muslimsday.com/নবজাতকের-উপহার/",
+      "brand_name": "Muslims Day",
+      "brand_image": "https://play-lh.googleusercontent.com/s7TXQfPoClf2Fcd8YSC8Vd3_EPwemkj7mv10zJQKQOOcHPi884P-WC-p7qxj5rUcpEY=w480-h960-rw",
+      "cta": "Read"
+    },
+    {
+      "id": 7,
+      "type": "banner-640x200",
+      "title": "ইসলামের দৃষ্টিতে বৃক্ষরোপন",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/muslims_day/banner_640x200/treen%20plantation%20in%20islam%20640%20200-01.webp",
+      "click_url": "https://muslimsday.com/ইসলামে-বৃক্ষরোপন/",
+      "brand_name": "Muslims Day",
+      "brand_image": "",
+      "cta": ""
+    },
+    {
+      "id": 8,
+      "type": "banner-600x94",
+      "title": "ইসলামের দৃষ্টিতে বৃক্ষরোপন",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/muslims_day/banner_600x94/treen%20plantation%20in%20islam%20600%2094-01.webp",
+      "click_url": "https://muslimsday.com/ইসলামে-বৃক্ষরোপন/",
+      "brand_name": "Muslims Day",
+      "brand_image": "",
+      "cta": ""
+    },
+    {
+      "id": 9,
+      "type": "feed-thumbnail",
+      "title": "ইসলামের দৃষ্টিতে বৃক্ষরোপন",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/muslims_day/feed_thumbnail/treen%20plantation%20in%20islam%20640%20360.webp",
+      "click_url": "https://muslimsday.com/ইসলামে-বৃক্ষরোপন/",
+      "brand_name": "Muslims Day",
+      "brand_image": "https://play-lh.googleusercontent.com/s7TXQfPoClf2Fcd8YSC8Vd3_EPwemkj7mv10zJQKQOOcHPi884P-WC-p7qxj5rUcpEY=w480-h960-rw",
+      "cta": "Read"
+    },
+    {
+      "id": 10,
+      "type": "banner-640x200",
+      "title": "ছোটদের ইসলাম শিক্ষা",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/kahf_kids/banner_640x200/Kids_das_v9hkerC.png",
+      "click_url": "https://kahfkids.com/learn/course/Level-01-Batch-ISK102",
+      "brand_name": "Kahf Kids",
+      "brand_image": "https://play-lh.googleusercontent.com/bC6HQ28ZYETdvTIqxXYP7pjL28fwiBuThPKd2hQORBtPai1Jsbg_ZDkC3vhdjc3DqA=s96-rw",
+      "cta": ""
+    },
+    {
+      "id": 11,
+      "type": "banner-600x94",
+      "title": "ছোটদের ইসলাম শিক্ষা",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/kahf_kids/banner_6400x94/Untitled%20design%20(4).png",
+      "click_url": "https://kahfkids.com/learn/course/Level-01-Batch-ISK102",
+      "brand_name": "Kahf Kids",
+      "brand_image": "https://play-lh.googleusercontent.com/bC6HQ28ZYETdvTIqxXYP7pjL28fwiBuThPKd2hQORBtPai1Jsbg_ZDkC3vhdjc3DqA=s96-rw",
+      "cta": ""
+    },
+    {
+      "id": 12,
+      "type": "feed-thumbnail",
+      "title": "ছোটদের ইসলাম শিক্ষা",
+      "media": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/refs/heads/master/data/fallback_ads/kahf_kids/feed_thumbnail/Untitled%20design%20(6).png",
+      "click_url": "https://kahfkids.com/learn/course/Level-01-Batch-ISK102",
+      "brand_name": "Kahf Kids",
+      "brand_image": "https://play-lh.googleusercontent.com/bC6HQ28ZYETdvTIqxXYP7pjL28fwiBuThPKd2hQORBtPai1Jsbg_ZDkC3vhdjc3DqA=s96-rw",
+      "cta": "Details"
+    }
+  ]
+}
