@@ -5,14 +5,38 @@
     "isEnable": true,
     "publisher": "muslims-day",
     "format": "json",
-    "campaign_types": "paid|publisher-house|community|house",
+    "campaign_types": "paid|house",
     "refresh_rate_in_millis": 10000,
     "ads": [
       {
         "isEnable": true,
-        "adType": "image-320x100",
-        "placement": "home-page-ios",
-        "divId": "above-salat-time-ios"
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
+        "divId": "home-page-under-saalat-time"
+      },
+      {
+        "isEnable": true,
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
+        "divId": "saom-full-screen-under-saom-card"
+      },
+      {
+        "isEnable": true,
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
+        "divId": "common-content-page-bottom"
+      },
+      {
+        "isEnable": true,
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
+        "divId": "notification-details-page-bottom"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "mahfil-player-bottom"
+      },
+      {
+        "isEnable": true,
+        "placement": "a359bd948b0f30fcaf27ace4e5359281",
+        "divId": "mahfil-feed"
       }
     ]
   }
