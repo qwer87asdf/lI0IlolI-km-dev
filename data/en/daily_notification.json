@@ -1,6 +1,10 @@
 [
     {
+        "type": "hadith",
+        "data": "<p class=\"sanad\">Ibn &#039;Umar (May Allah be pleased with them) reported:<\/p><p class=\"hadith\"><span style=\"color: rgb(255, 255, 255); font-family: &quot;KFGQPC Uthman Taha Naskh&quot;, &quot;KFGQPC Uthmanic Script HAFS&quot;, Scheherazade, &quot;Trebuchet MS&quot;, Arial, Helvetica; font-size: 19px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(39, 47, 51); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">دعه فإن الحياء من الإيمان<\/span><\/p><p>Messenger of Allah (ﷺ) passed by a man of the Ansar who was admonishing his brother regarding shyness. Messenger of Allah (ﷺ) said, &quot;Leave him alone, for modesty is a part of Iman.&quot;<\/p><p class=\"reference\"> Riyad as-Salihin 680<\/p>"
+    },
+    {
         "type": "quran",
-        "data": "<p>test<\/p>"
+        "data": "<p>Allah said in the Quranul Karim,<\/p><p class=\"quran\">دَعْوَىٰهُمْ فِيهَا سُبْحَـٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَـٰمٌۭ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ<\/p><p><span style=\"color: rgb(231, 233, 234); font-family: Figtree, &quot;Helvetica Neue&quot;, Helvetica, Arial; font-size: 18.88px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(31, 33, 37); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">in which their prayer will be, “Glory be to You, O  Allah!” and their greeting will be, “Peace!” and their closing prayer will be, “All praise is for Allah—Lord of all worlds!”<\/span><\/p><p class=\"reference\">Surah Yunus, Ayat 10<\/p>"
     }
 ]
