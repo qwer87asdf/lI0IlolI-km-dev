@@ -1,6 +1,10 @@
 [
     {
+        "type": "hadith",
+        "data": "<p class=\"sanad\">ইবনে উমার (রা) থেকে বর্ণিত, তিনি বলেন<\/p><p class=\"hadith\"><span style=\"color: rgb(255, 255, 255); font-family: &quot;KFGQPC Uthman Taha Naskh&quot;, &quot;KFGQPC Uthmanic Script HAFS&quot;, Scheherazade, &quot;Trebuchet MS&quot;, Arial, Helvetica; font-size: 19px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(39, 47, 51); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">دعه فإن الحياء من الإيمان<\/span><\/p><p>রাসূলুল্লাহ (ﷺ) আনসারী এক ব্যক্তির পাশ দিয়ে যাচ্ছিলেন, যিনি তাঁর ভাইকে লজ্জা সম্পর্কে তিরস্কার করছিলেন। রাসূলুল্লাহ (ﷺ) বললেন, <strong>&quot;তাকে ছেড়ে দাও, কারণ লজ্জা ঈমানের অংশ।&quot;<\/strong><\/p><p class=\"reference\"> Riyad as-Salihin 680<\/p>"
+    },
+    {
         "type": "quran",
-        "data": "<p>test<\/p>"
+        "data": "<p>পবিত্র কুরআনে আল্লাহ তায়ালা বলেন<\/p><p class=\"quran\">دَعْوَىٰهُمْ فِيهَا سُبْحَـٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَـٰمٌۭ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ<\/p><p>তাদের প্রার্থনা হবে, <strong>&quot;সুবহানাকা আল্লাহুম্মা!&quot;<\/strong> (হে আল্লাহ, আপনি পবিত্র!) এবং তাদের অভিবাদন হবে <strong>&quot;সালাম!&quot;<\/strong> (শান্তি!) আর তাদের শেষ প্রার্থনা হবে <strong>&quot;আলহামদু লিল্লাহি রাব্বিল আলামীন!&quot;<\/strong> (সকল প্রশংসা আল্লাহর জন্য, যিনি সকল সৃষ্টির রব!)<\/p><p class=\"reference\">সূরা ইউনুস, আয়াত ১০<\/p>"
     }
 ]
